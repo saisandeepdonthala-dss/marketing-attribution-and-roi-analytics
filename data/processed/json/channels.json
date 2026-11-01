@@ -1,0 +1,22 @@
+[
+    {
+        "channel_id": "CH-001",
+        "channel_name": "Email"
+    },
+    {
+        "channel_id": "CH-002",
+        "channel_name": "Social Media"
+    },
+    {
+        "channel_id": "CH-003",
+        "channel_name": "Search"
+    },
+    {
+        "channel_id": "CH-004",
+        "channel_name": "Display"
+    },
+    {
+        "channel_id": "CH-005",
+        "channel_name": "Offline"
+    }
+]

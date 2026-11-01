@@ -1,0 +1,5002 @@
+[
+    {
+        "campaign_id": "CMP-2026-000001",
+        "campaign_name": "Festival Promotion 1",
+        "channel_id": "CH-003",
+        "budget": 86118.88,
+        "currency": "USD",
+        "start_date": "2026-01-25",
+        "end_date": "2026-03-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000002",
+        "campaign_name": "Customer Retention 2",
+        "channel_id": "CH-005",
+        "budget": 10613.64,
+        "currency": "USD",
+        "start_date": "2026-04-10",
+        "end_date": "2026-06-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000003",
+        "campaign_name": "Product Launch 3",
+        "channel_id": "CH-005",
+        "budget": 25568.04,
+        "currency": "USD",
+        "start_date": "2026-08-19",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000004",
+        "campaign_name": "Website Traffic 4",
+        "channel_id": "CH-003",
+        "budget": 10419.85,
+        "currency": "USD",
+        "start_date": "2026-03-17",
+        "end_date": "2026-04-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000005",
+        "campaign_name": "Brand Awareness 5",
+        "channel_id": "CH-005",
+        "budget": 53738.43,
+        "currency": "USD",
+        "start_date": "2026-09-20",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000006",
+        "campaign_name": "Winter Campaign 6",
+        "channel_id": "CH-005",
+        "budget": 95832.49,
+        "currency": "USD",
+        "start_date": "2026-08-07",
+        "end_date": "2026-10-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000007",
+        "campaign_name": "Brand Awareness 7",
+        "channel_id": "CH-005",
+        "budget": 76687.77,
+        "currency": "USD",
+        "start_date": "2026-02-06",
+        "end_date": "2026-04-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000008",
+        "campaign_name": "Product Launch 8",
+        "channel_id": "CH-001",
+        "budget": 42018.61,
+        "currency": "USD",
+        "start_date": "2026-09-07",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000009",
+        "campaign_name": "Winter Campaign 9",
+        "channel_id": "CH-001",
+        "budget": 5506.77,
+        "currency": "USD",
+        "start_date": "2026-09-03",
+        "end_date": "2026-09-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000010",
+        "campaign_name": "New Customer Offer 10",
+        "channel_id": "CH-003",
+        "budget": 74448.65,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-08-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000011",
+        "campaign_name": "Summer Sale 11",
+        "channel_id": "CH-003",
+        "budget": 91424.21,
+        "currency": "USD",
+        "start_date": "2026-09-16",
+        "end_date": "2026-10-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000012",
+        "campaign_name": "New Customer Offer 12",
+        "channel_id": "CH-004",
+        "budget": 68292.14,
+        "currency": "USD",
+        "start_date": "2026-06-11",
+        "end_date": "2026-09-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000013",
+        "campaign_name": "Winter Campaign 13",
+        "channel_id": "CH-005",
+        "budget": 84544.74,
+        "currency": "USD",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000014",
+        "campaign_name": "Festival Promotion 14",
+        "channel_id": "CH-004",
+        "budget": 47883.51,
+        "currency": "USD",
+        "start_date": "2026-01-05",
+        "end_date": "2026-01-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000015",
+        "campaign_name": "Website Traffic 15",
+        "channel_id": "CH-001",
+        "budget": 46029.38,
+        "currency": "USD",
+        "start_date": "2026-03-17",
+        "end_date": "2026-04-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000016",
+        "campaign_name": "Winter Campaign 16",
+        "channel_id": "CH-005",
+        "budget": 52715.59,
+        "currency": "USD",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000017",
+        "campaign_name": "Product Launch 17",
+        "channel_id": "CH-003",
+        "budget": 62694.83,
+        "currency": "USD",
+        "start_date": "2026-04-11",
+        "end_date": "2026-04-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000018",
+        "campaign_name": "Website Traffic 18",
+        "channel_id": "CH-005",
+        "budget": 10953.49,
+        "currency": "USD",
+        "start_date": "2026-01-12",
+        "end_date": "2026-02-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000019",
+        "campaign_name": "Product Launch 19",
+        "channel_id": "CH-001",
+        "budget": 96181.68,
+        "currency": "USD",
+        "start_date": "2026-08-31",
+        "end_date": "2026-10-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000020",
+        "campaign_name": "Winter Campaign 20",
+        "channel_id": "CH-002",
+        "budget": 36558.48,
+        "currency": "USD",
+        "start_date": "2026-06-06",
+        "end_date": "2026-06-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000021",
+        "campaign_name": "Brand Awareness 21",
+        "channel_id": "CH-005",
+        "budget": 50074.77,
+        "currency": "USD",
+        "start_date": "2026-01-30",
+        "end_date": "2026-03-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000022",
+        "campaign_name": "Winter Campaign 22",
+        "channel_id": "CH-003",
+        "budget": 35801.34,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-07-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000023",
+        "campaign_name": "Website Traffic 23",
+        "channel_id": "CH-005",
+        "budget": 77835.56,
+        "currency": "USD",
+        "start_date": "2026-07-25",
+        "end_date": "2026-10-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000024",
+        "campaign_name": "Website Traffic 24",
+        "channel_id": "CH-001",
+        "budget": 8741.85,
+        "currency": "USD",
+        "start_date": "2026-04-29",
+        "end_date": "2026-07-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000025",
+        "campaign_name": "Customer Retention 25",
+        "channel_id": "CH-003",
+        "budget": 54337.83,
+        "currency": "USD",
+        "start_date": "2026-06-28",
+        "end_date": "2026-07-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000026",
+        "campaign_name": "Festival Promotion 26",
+        "channel_id": "CH-002",
+        "budget": 38967.47,
+        "currency": "USD",
+        "start_date": "2026-02-03",
+        "end_date": "2026-03-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000027",
+        "campaign_name": "New Customer Offer 27",
+        "channel_id": "CH-004",
+        "budget": 41866.77,
+        "currency": "USD",
+        "start_date": "2026-09-29",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000028",
+        "campaign_name": "New Customer Offer 28",
+        "channel_id": "CH-005",
+        "budget": 40900.02,
+        "currency": "USD",
+        "start_date": "2026-09-03",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000029",
+        "campaign_name": "Product Launch 29",
+        "channel_id": "CH-004",
+        "budget": 59177.78,
+        "currency": "USD",
+        "start_date": "2026-07-07",
+        "end_date": "2026-08-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000030",
+        "campaign_name": "Product Launch 30",
+        "channel_id": "CH-003",
+        "budget": 92030.48,
+        "currency": "USD",
+        "start_date": "2026-05-24",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000031",
+        "campaign_name": "Product Launch 31",
+        "channel_id": "CH-003",
+        "budget": 18765.99,
+        "currency": "USD",
+        "start_date": "2026-03-10",
+        "end_date": "2026-04-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000032",
+        "campaign_name": "Product Launch 32",
+        "channel_id": "CH-003",
+        "budget": 29634.5,
+        "currency": "USD",
+        "start_date": "2026-03-31",
+        "end_date": "2026-06-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000033",
+        "campaign_name": "New Customer Offer 33",
+        "channel_id": "CH-001",
+        "budget": 8865.38,
+        "currency": "USD",
+        "start_date": "2026-08-21",
+        "end_date": "2026-10-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000034",
+        "campaign_name": "Summer Sale 34",
+        "channel_id": "CH-005",
+        "budget": 36557.69,
+        "currency": "USD",
+        "start_date": "2026-07-05",
+        "end_date": "2026-09-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000035",
+        "campaign_name": "Festival Promotion 35",
+        "channel_id": "CH-002",
+        "budget": 68035.75,
+        "currency": "USD",
+        "start_date": "2026-07-06",
+        "end_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000036",
+        "campaign_name": "Festival Promotion 36",
+        "channel_id": "CH-002",
+        "budget": 88398.27,
+        "currency": "USD",
+        "start_date": "2026-02-14",
+        "end_date": "2026-04-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000037",
+        "campaign_name": "Summer Sale 37",
+        "channel_id": "CH-001",
+        "budget": 36881.82,
+        "currency": "USD",
+        "start_date": "2026-03-25",
+        "end_date": "2026-04-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000038",
+        "campaign_name": "Summer Sale 38",
+        "channel_id": "CH-004",
+        "budget": 52540.56,
+        "currency": "USD",
+        "start_date": "2026-02-01",
+        "end_date": "2026-02-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000039",
+        "campaign_name": "Festival Promotion 39",
+        "channel_id": "CH-002",
+        "budget": 91966.51,
+        "currency": "USD",
+        "start_date": "2026-04-27",
+        "end_date": "2026-06-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000040",
+        "campaign_name": "Festival Promotion 40",
+        "channel_id": "CH-004",
+        "budget": 50660.65,
+        "currency": "USD",
+        "start_date": "2026-03-03",
+        "end_date": "2026-03-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000041",
+        "campaign_name": "Product Launch 41",
+        "channel_id": "CH-002",
+        "budget": 10136.35,
+        "currency": "USD",
+        "start_date": "2026-01-22",
+        "end_date": "2026-04-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000042",
+        "campaign_name": "Brand Awareness 42",
+        "channel_id": "CH-005",
+        "budget": 81989.08,
+        "currency": "USD",
+        "start_date": "2026-05-15",
+        "end_date": "2026-06-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000043",
+        "campaign_name": "Winter Campaign 43",
+        "channel_id": "CH-002",
+        "budget": 35260.65,
+        "currency": "USD",
+        "start_date": "2026-03-11",
+        "end_date": "2026-04-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000044",
+        "campaign_name": "Summer Sale 44",
+        "channel_id": "CH-002",
+        "budget": 42535.26,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-07-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000045",
+        "campaign_name": "Brand Awareness 45",
+        "channel_id": "CH-001",
+        "budget": 93585.19,
+        "currency": "USD",
+        "start_date": "2026-09-04",
+        "end_date": "2026-09-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000046",
+        "campaign_name": "Festival Promotion 46",
+        "channel_id": "CH-004",
+        "budget": 62832.37,
+        "currency": "USD",
+        "start_date": "2026-07-21",
+        "end_date": "2026-08-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000047",
+        "campaign_name": "Festival Promotion 47",
+        "channel_id": "CH-002",
+        "budget": 69585.92,
+        "currency": "USD",
+        "start_date": "2026-01-27",
+        "end_date": "2026-04-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000048",
+        "campaign_name": "New Customer Offer 48",
+        "channel_id": "CH-002",
+        "budget": 31790.72,
+        "currency": "USD",
+        "start_date": "2026-06-22",
+        "end_date": "2026-07-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000049",
+        "campaign_name": "Brand Awareness 49",
+        "channel_id": "CH-003",
+        "budget": 55202.42,
+        "currency": "USD",
+        "start_date": "2026-09-13",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000050",
+        "campaign_name": "Website Traffic 50",
+        "channel_id": "CH-002",
+        "budget": 13788.26,
+        "currency": "USD",
+        "start_date": "2026-06-15",
+        "end_date": "2026-08-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000051",
+        "campaign_name": "New Customer Offer 51",
+        "channel_id": "CH-002",
+        "budget": 13528.82,
+        "currency": "USD",
+        "start_date": "2026-04-26",
+        "end_date": "2026-06-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000052",
+        "campaign_name": "Product Launch 52",
+        "channel_id": "CH-001",
+        "budget": 71231.8,
+        "currency": "USD",
+        "start_date": "2026-06-15",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000053",
+        "campaign_name": "Brand Awareness 53",
+        "channel_id": "CH-005",
+        "budget": 15630.97,
+        "currency": "USD",
+        "start_date": "2026-03-15",
+        "end_date": "2026-05-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000054",
+        "campaign_name": "Winter Campaign 54",
+        "channel_id": "CH-002",
+        "budget": 31257.45,
+        "currency": "USD",
+        "start_date": "2026-09-26",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000055",
+        "campaign_name": "Festival Promotion 55",
+        "channel_id": "CH-002",
+        "budget": 90732.22,
+        "currency": "USD",
+        "start_date": "2026-04-27",
+        "end_date": "2026-06-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000056",
+        "campaign_name": "Winter Campaign 56",
+        "channel_id": "CH-002",
+        "budget": 94816.91,
+        "currency": "USD",
+        "start_date": "2026-05-08",
+        "end_date": "2026-05-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000057",
+        "campaign_name": "Product Launch 57",
+        "channel_id": "CH-005",
+        "budget": 77697.69,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-07-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000058",
+        "campaign_name": "Product Launch 58",
+        "channel_id": "CH-002",
+        "budget": 86724.32,
+        "currency": "USD",
+        "start_date": "2026-01-23",
+        "end_date": "2026-03-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000059",
+        "campaign_name": "Festival Promotion 59",
+        "channel_id": "CH-002",
+        "budget": 47944.63,
+        "currency": "USD",
+        "start_date": "2026-05-18",
+        "end_date": "2026-07-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000060",
+        "campaign_name": "Website Traffic 60",
+        "channel_id": "CH-003",
+        "budget": 79100.45,
+        "currency": "USD",
+        "start_date": "2026-09-09",
+        "end_date": "2026-10-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000061",
+        "campaign_name": "Customer Retention 61",
+        "channel_id": "CH-002",
+        "budget": 59658.3,
+        "currency": "USD",
+        "start_date": "2026-03-30",
+        "end_date": "2026-05-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000062",
+        "campaign_name": "Website Traffic 62",
+        "channel_id": "CH-005",
+        "budget": 87090.14,
+        "currency": "USD",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000063",
+        "campaign_name": "Product Launch 63",
+        "channel_id": "CH-004",
+        "budget": 14138.43,
+        "currency": "USD",
+        "start_date": "2026-09-12",
+        "end_date": "2026-10-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000064",
+        "campaign_name": "Product Launch 64",
+        "channel_id": "CH-005",
+        "budget": 39074.56,
+        "currency": "USD",
+        "start_date": "2026-06-09",
+        "end_date": "2026-07-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000065",
+        "campaign_name": "New Customer Offer 65",
+        "channel_id": "CH-002",
+        "budget": 77177.65,
+        "currency": "USD",
+        "start_date": "2026-02-10",
+        "end_date": "2026-05-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000066",
+        "campaign_name": "Product Launch 66",
+        "channel_id": "CH-003",
+        "budget": 94484.63,
+        "currency": "USD",
+        "start_date": "2026-04-12",
+        "end_date": "2026-05-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000067",
+        "campaign_name": "Festival Promotion 67",
+        "channel_id": "CH-001",
+        "budget": 82657.99,
+        "currency": "USD",
+        "start_date": "2026-01-24",
+        "end_date": "2026-03-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000068",
+        "campaign_name": "Website Traffic 68",
+        "channel_id": "CH-001",
+        "budget": 17153.17,
+        "currency": "USD",
+        "start_date": "2026-05-19",
+        "end_date": "2026-07-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000069",
+        "campaign_name": "Website Traffic 69",
+        "channel_id": "CH-001",
+        "budget": 48953.65,
+        "currency": "USD",
+        "start_date": "2026-08-15",
+        "end_date": "2026-10-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000070",
+        "campaign_name": "Customer Retention 70",
+        "channel_id": "CH-001",
+        "budget": 27229.82,
+        "currency": "USD",
+        "start_date": "2026-08-21",
+        "end_date": "2026-10-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000071",
+        "campaign_name": "Brand Awareness 71",
+        "channel_id": "CH-003",
+        "budget": 21749.93,
+        "currency": "USD",
+        "start_date": "2026-01-18",
+        "end_date": "2026-03-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000072",
+        "campaign_name": "Brand Awareness 72",
+        "channel_id": "CH-002",
+        "budget": 57468.27,
+        "currency": "USD",
+        "start_date": "2026-01-14",
+        "end_date": "2026-02-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000073",
+        "campaign_name": "Festival Promotion 73",
+        "channel_id": "CH-005",
+        "budget": 78964.59,
+        "currency": "USD",
+        "start_date": "2026-05-02",
+        "end_date": "2026-06-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000074",
+        "campaign_name": "Customer Retention 74",
+        "channel_id": "CH-005",
+        "budget": 17640.59,
+        "currency": "USD",
+        "start_date": "2026-09-10",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000075",
+        "campaign_name": "Product Launch 75",
+        "channel_id": "CH-002",
+        "budget": 53455.07,
+        "currency": "USD",
+        "start_date": "2026-07-21",
+        "end_date": "2026-08-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000076",
+        "campaign_name": "Festival Promotion 76",
+        "channel_id": "CH-004",
+        "budget": 10375.93,
+        "currency": "USD",
+        "start_date": "2026-08-24",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000077",
+        "campaign_name": "Festival Promotion 77",
+        "channel_id": "CH-001",
+        "budget": 65899.68,
+        "currency": "USD",
+        "start_date": "2026-01-19",
+        "end_date": "2026-02-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000078",
+        "campaign_name": "Winter Campaign 78",
+        "channel_id": "CH-002",
+        "budget": 77958.99,
+        "currency": "USD",
+        "start_date": "2026-01-31",
+        "end_date": "2026-05-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000079",
+        "campaign_name": "Summer Sale 79",
+        "channel_id": "CH-002",
+        "budget": 5220.32,
+        "currency": "USD",
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000080",
+        "campaign_name": "Summer Sale 80",
+        "channel_id": "CH-003",
+        "budget": 43757.72,
+        "currency": "USD",
+        "start_date": "2026-03-30",
+        "end_date": "2026-05-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000081",
+        "campaign_name": "Customer Retention 81",
+        "channel_id": "CH-003",
+        "budget": 28247.55,
+        "currency": "USD",
+        "start_date": "2026-09-02",
+        "end_date": "2026-10-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000082",
+        "campaign_name": "Summer Sale 82",
+        "channel_id": "CH-002",
+        "budget": 87061.81,
+        "currency": "USD",
+        "start_date": "2026-03-30",
+        "end_date": "2026-04-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000083",
+        "campaign_name": "Winter Campaign 83",
+        "channel_id": "CH-002",
+        "budget": 67944.4,
+        "currency": "USD",
+        "start_date": "2026-03-15",
+        "end_date": "2026-04-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000084",
+        "campaign_name": "New Customer Offer 84",
+        "channel_id": "CH-005",
+        "budget": 82105.69,
+        "currency": "USD",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000085",
+        "campaign_name": "Customer Retention 85",
+        "channel_id": "CH-002",
+        "budget": 59343.91,
+        "currency": "USD",
+        "start_date": "2026-09-01",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000086",
+        "campaign_name": "Customer Retention 86",
+        "channel_id": "CH-001",
+        "budget": 63006.45,
+        "currency": "USD",
+        "start_date": "2026-02-03",
+        "end_date": "2026-03-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000087",
+        "campaign_name": "Festival Promotion 87",
+        "channel_id": "CH-001",
+        "budget": 71057.21,
+        "currency": "USD",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000088",
+        "campaign_name": "Winter Campaign 88",
+        "channel_id": "CH-005",
+        "budget": 89496.71,
+        "currency": "USD",
+        "start_date": "2026-04-19",
+        "end_date": "2026-07-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000089",
+        "campaign_name": "Website Traffic 89",
+        "channel_id": "CH-005",
+        "budget": 18857.61,
+        "currency": "USD",
+        "start_date": "2026-05-06",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000090",
+        "campaign_name": "Product Launch 90",
+        "channel_id": "CH-004",
+        "budget": 7007.75,
+        "currency": "USD",
+        "start_date": "2026-08-09",
+        "end_date": "2026-09-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000091",
+        "campaign_name": "Customer Retention 91",
+        "channel_id": "CH-002",
+        "budget": 7422.79,
+        "currency": "USD",
+        "start_date": "2026-01-02",
+        "end_date": "2026-03-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000092",
+        "campaign_name": "New Customer Offer 92",
+        "channel_id": "CH-005",
+        "budget": 14817.55,
+        "currency": "USD",
+        "start_date": "2026-09-17",
+        "end_date": "2026-10-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000093",
+        "campaign_name": "Website Traffic 93",
+        "channel_id": "CH-005",
+        "budget": 8582.27,
+        "currency": "USD",
+        "start_date": "2026-01-04",
+        "end_date": "2026-02-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000094",
+        "campaign_name": "Winter Campaign 94",
+        "channel_id": "CH-005",
+        "budget": 89142.72,
+        "currency": "USD",
+        "start_date": "2026-09-03",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000095",
+        "campaign_name": "Customer Retention 95",
+        "channel_id": "CH-005",
+        "budget": 37291.01,
+        "currency": "USD",
+        "start_date": "2026-09-04",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000096",
+        "campaign_name": "Festival Promotion 96",
+        "channel_id": "CH-003",
+        "budget": 44891.09,
+        "currency": "USD",
+        "start_date": "2026-05-02",
+        "end_date": "2026-07-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000097",
+        "campaign_name": "Brand Awareness 97",
+        "channel_id": "CH-005",
+        "budget": 61565.57,
+        "currency": "USD",
+        "start_date": "2026-09-08",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000098",
+        "campaign_name": "Website Traffic 98",
+        "channel_id": "CH-004",
+        "budget": 61666.97,
+        "currency": "USD",
+        "start_date": "2026-07-17",
+        "end_date": "2026-09-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000099",
+        "campaign_name": "Product Launch 99",
+        "channel_id": "CH-005",
+        "budget": 10842.91,
+        "currency": "USD",
+        "start_date": "2026-04-08",
+        "end_date": "2026-06-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000100",
+        "campaign_name": "Brand Awareness 100",
+        "channel_id": "CH-004",
+        "budget": 29596.97,
+        "currency": "USD",
+        "start_date": "2026-07-17",
+        "end_date": "2026-10-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000101",
+        "campaign_name": "Product Launch 101",
+        "channel_id": "CH-005",
+        "budget": 26547.34,
+        "currency": "USD",
+        "start_date": "2026-06-09",
+        "end_date": "2026-06-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000102",
+        "campaign_name": "Winter Campaign 102",
+        "channel_id": "CH-005",
+        "budget": 45348.49,
+        "currency": "USD",
+        "start_date": "2026-04-15",
+        "end_date": "2026-06-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000103",
+        "campaign_name": "Product Launch 103",
+        "channel_id": "CH-002",
+        "budget": 13055.63,
+        "currency": "USD",
+        "start_date": "2026-03-12",
+        "end_date": "2026-05-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000104",
+        "campaign_name": "Festival Promotion 104",
+        "channel_id": "CH-001",
+        "budget": 31357.61,
+        "currency": "USD",
+        "start_date": "2026-05-23",
+        "end_date": "2026-07-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000105",
+        "campaign_name": "Winter Campaign 105",
+        "channel_id": "CH-002",
+        "budget": 85830.18,
+        "currency": "USD",
+        "start_date": "2026-09-11",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000106",
+        "campaign_name": "Customer Retention 106",
+        "channel_id": "CH-005",
+        "budget": 50104.96,
+        "currency": "USD",
+        "start_date": "2026-03-15",
+        "end_date": "2026-06-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000107",
+        "campaign_name": "New Customer Offer 107",
+        "channel_id": "CH-002",
+        "budget": 57107.85,
+        "currency": "USD",
+        "start_date": "2026-01-28",
+        "end_date": "2026-04-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000108",
+        "campaign_name": "Summer Sale 108",
+        "channel_id": "CH-004",
+        "budget": 31600.37,
+        "currency": "USD",
+        "start_date": "2026-01-13",
+        "end_date": "2026-02-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000109",
+        "campaign_name": "Customer Retention 109",
+        "channel_id": "CH-001",
+        "budget": 59801.88,
+        "currency": "USD",
+        "start_date": "2026-01-12",
+        "end_date": "2026-02-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000110",
+        "campaign_name": "Product Launch 110",
+        "channel_id": "CH-003",
+        "budget": 19623.12,
+        "currency": "USD",
+        "start_date": "2026-08-24",
+        "end_date": "2026-10-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000111",
+        "campaign_name": "Customer Retention 111",
+        "channel_id": "CH-005",
+        "budget": 9912.8,
+        "currency": "USD",
+        "start_date": "2026-03-15",
+        "end_date": "2026-04-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000112",
+        "campaign_name": "Website Traffic 112",
+        "channel_id": "CH-001",
+        "budget": 8972.31,
+        "currency": "USD",
+        "start_date": "2026-08-17",
+        "end_date": "2026-09-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000113",
+        "campaign_name": "Customer Retention 113",
+        "channel_id": "CH-004",
+        "budget": 53831.93,
+        "currency": "USD",
+        "start_date": "2026-05-17",
+        "end_date": "2026-07-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000114",
+        "campaign_name": "Brand Awareness 114",
+        "channel_id": "CH-002",
+        "budget": 86656.12,
+        "currency": "USD",
+        "start_date": "2026-06-21",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000115",
+        "campaign_name": "Brand Awareness 115",
+        "channel_id": "CH-003",
+        "budget": 38113.45,
+        "currency": "USD",
+        "start_date": "2026-02-08",
+        "end_date": "2026-04-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000116",
+        "campaign_name": "Summer Sale 116",
+        "channel_id": "CH-005",
+        "budget": 87428.41,
+        "currency": "USD",
+        "start_date": "2026-06-11",
+        "end_date": "2026-07-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000117",
+        "campaign_name": "New Customer Offer 117",
+        "channel_id": "CH-002",
+        "budget": 82470.62,
+        "currency": "USD",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000118",
+        "campaign_name": "Winter Campaign 118",
+        "channel_id": "CH-005",
+        "budget": 10591.0,
+        "currency": "USD",
+        "start_date": "2026-04-15",
+        "end_date": "2026-06-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000119",
+        "campaign_name": "Festival Promotion 119",
+        "channel_id": "CH-005",
+        "budget": 62172.1,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-03-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000120",
+        "campaign_name": "Winter Campaign 120",
+        "channel_id": "CH-004",
+        "budget": 21093.81,
+        "currency": "USD",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000121",
+        "campaign_name": "Customer Retention 121",
+        "channel_id": "CH-002",
+        "budget": 45827.72,
+        "currency": "USD",
+        "start_date": "2026-01-17",
+        "end_date": "2026-03-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000122",
+        "campaign_name": "New Customer Offer 122",
+        "channel_id": "CH-004",
+        "budget": 15354.44,
+        "currency": "USD",
+        "start_date": "2026-09-09",
+        "end_date": "2026-10-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000123",
+        "campaign_name": "Customer Retention 123",
+        "channel_id": "CH-005",
+        "budget": 39831.71,
+        "currency": "USD",
+        "start_date": "2026-05-31",
+        "end_date": "2026-06-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000124",
+        "campaign_name": "Winter Campaign 124",
+        "channel_id": "CH-003",
+        "budget": 19348.27,
+        "currency": "USD",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000125",
+        "campaign_name": "Customer Retention 125",
+        "channel_id": "CH-002",
+        "budget": 24636.51,
+        "currency": "USD",
+        "start_date": "2026-06-09",
+        "end_date": "2026-08-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000126",
+        "campaign_name": "Website Traffic 126",
+        "channel_id": "CH-002",
+        "budget": 90987.74,
+        "currency": "USD",
+        "start_date": "2026-07-12",
+        "end_date": "2026-08-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000127",
+        "campaign_name": "Festival Promotion 127",
+        "channel_id": "CH-002",
+        "budget": 78886.66,
+        "currency": "USD",
+        "start_date": "2026-01-22",
+        "end_date": "2026-02-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000128",
+        "campaign_name": "Winter Campaign 128",
+        "channel_id": "CH-002",
+        "budget": 65499.64,
+        "currency": "USD",
+        "start_date": "2026-09-03",
+        "end_date": "2026-10-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000129",
+        "campaign_name": "Website Traffic 129",
+        "channel_id": "CH-002",
+        "budget": 7241.13,
+        "currency": "USD",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000130",
+        "campaign_name": "Summer Sale 130",
+        "channel_id": "CH-002",
+        "budget": 8270.32,
+        "currency": "USD",
+        "start_date": "2026-04-07",
+        "end_date": "2026-06-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000131",
+        "campaign_name": "Website Traffic 131",
+        "channel_id": "CH-003",
+        "budget": 10837.93,
+        "currency": "USD",
+        "start_date": "2026-04-18",
+        "end_date": "2026-07-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000132",
+        "campaign_name": "Product Launch 132",
+        "channel_id": "CH-001",
+        "budget": 51550.3,
+        "currency": "USD",
+        "start_date": "2026-07-21",
+        "end_date": "2026-09-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000133",
+        "campaign_name": "Brand Awareness 133",
+        "channel_id": "CH-001",
+        "budget": 54548.5,
+        "currency": "USD",
+        "start_date": "2026-09-29",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000134",
+        "campaign_name": "Product Launch 134",
+        "channel_id": "CH-004",
+        "budget": 40670.69,
+        "currency": "USD",
+        "start_date": "2026-02-08",
+        "end_date": "2026-05-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000135",
+        "campaign_name": "Product Launch 135",
+        "channel_id": "CH-004",
+        "budget": 33037.5,
+        "currency": "USD",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000136",
+        "campaign_name": "Product Launch 136",
+        "channel_id": "CH-003",
+        "budget": 87477.58,
+        "currency": "USD",
+        "start_date": "2026-03-18",
+        "end_date": "2026-06-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000137",
+        "campaign_name": "Winter Campaign 137",
+        "channel_id": "CH-002",
+        "budget": 71034.73,
+        "currency": "USD",
+        "start_date": "2026-08-12",
+        "end_date": "2026-10-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000138",
+        "campaign_name": "Festival Promotion 138",
+        "channel_id": "CH-004",
+        "budget": 77759.83,
+        "currency": "USD",
+        "start_date": "2026-09-25",
+        "end_date": "2026-10-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000139",
+        "campaign_name": "Product Launch 139",
+        "channel_id": "CH-004",
+        "budget": 10305.23,
+        "currency": "USD",
+        "start_date": "2026-09-23",
+        "end_date": "2026-10-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000140",
+        "campaign_name": "Winter Campaign 140",
+        "channel_id": "CH-003",
+        "budget": 82697.22,
+        "currency": "USD",
+        "start_date": "2026-09-08",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000141",
+        "campaign_name": "Winter Campaign 141",
+        "channel_id": "CH-002",
+        "budget": 82142.98,
+        "currency": "USD",
+        "start_date": "2026-04-06",
+        "end_date": "2026-05-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000142",
+        "campaign_name": "Brand Awareness 142",
+        "channel_id": "CH-002",
+        "budget": 64952.02,
+        "currency": "USD",
+        "start_date": "2026-05-30",
+        "end_date": "2026-06-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000143",
+        "campaign_name": "Product Launch 143",
+        "channel_id": "CH-005",
+        "budget": 76462.0,
+        "currency": "USD",
+        "start_date": "2026-08-08",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000144",
+        "campaign_name": "Product Launch 144",
+        "channel_id": "CH-002",
+        "budget": 40190.71,
+        "currency": "USD",
+        "start_date": "2026-05-31",
+        "end_date": "2026-07-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000145",
+        "campaign_name": "Festival Promotion 145",
+        "channel_id": "CH-003",
+        "budget": 81407.41,
+        "currency": "USD",
+        "start_date": "2026-03-24",
+        "end_date": "2026-04-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000146",
+        "campaign_name": "Brand Awareness 146",
+        "channel_id": "CH-004",
+        "budget": 8074.36,
+        "currency": "USD",
+        "start_date": "2026-06-22",
+        "end_date": "2026-07-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000147",
+        "campaign_name": "Customer Retention 147",
+        "channel_id": "CH-003",
+        "budget": 20343.84,
+        "currency": "USD",
+        "start_date": "2026-03-10",
+        "end_date": "2026-06-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000148",
+        "campaign_name": "Festival Promotion 148",
+        "channel_id": "CH-002",
+        "budget": 74110.4,
+        "currency": "USD",
+        "start_date": "2026-07-07",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000149",
+        "campaign_name": "Festival Promotion 149",
+        "channel_id": "CH-002",
+        "budget": 60234.61,
+        "currency": "USD",
+        "start_date": "2026-04-18",
+        "end_date": "2026-05-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000150",
+        "campaign_name": "Winter Campaign 150",
+        "channel_id": "CH-003",
+        "budget": 73285.93,
+        "currency": "USD",
+        "start_date": "2026-02-06",
+        "end_date": "2026-03-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000151",
+        "campaign_name": "Festival Promotion 151",
+        "channel_id": "CH-003",
+        "budget": 37302.64,
+        "currency": "USD",
+        "start_date": "2026-06-11",
+        "end_date": "2026-08-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000152",
+        "campaign_name": "New Customer Offer 152",
+        "channel_id": "CH-004",
+        "budget": 84145.76,
+        "currency": "USD",
+        "start_date": "2026-03-12",
+        "end_date": "2026-04-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000153",
+        "campaign_name": "Summer Sale 153",
+        "channel_id": "CH-003",
+        "budget": 58431.85,
+        "currency": "USD",
+        "start_date": "2026-05-23",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000154",
+        "campaign_name": "Product Launch 154",
+        "channel_id": "CH-002",
+        "budget": 58424.67,
+        "currency": "USD",
+        "start_date": "2026-08-09",
+        "end_date": "2026-08-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000155",
+        "campaign_name": "Summer Sale 155",
+        "channel_id": "CH-005",
+        "budget": 8058.12,
+        "currency": "USD",
+        "start_date": "2026-02-02",
+        "end_date": "2026-03-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000156",
+        "campaign_name": "Customer Retention 156",
+        "channel_id": "CH-005",
+        "budget": 29166.76,
+        "currency": "USD",
+        "start_date": "2026-09-08",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000157",
+        "campaign_name": "Customer Retention 157",
+        "channel_id": "CH-004",
+        "budget": 46725.94,
+        "currency": "USD",
+        "start_date": "2026-04-07",
+        "end_date": "2026-06-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000158",
+        "campaign_name": "Website Traffic 158",
+        "channel_id": "CH-005",
+        "budget": 50484.37,
+        "currency": "USD",
+        "start_date": "2026-03-03",
+        "end_date": "2026-04-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000159",
+        "campaign_name": "New Customer Offer 159",
+        "channel_id": "CH-003",
+        "budget": 15429.07,
+        "currency": "USD",
+        "start_date": "2026-05-07",
+        "end_date": "2026-07-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000160",
+        "campaign_name": "Brand Awareness 160",
+        "channel_id": "CH-003",
+        "budget": 62825.01,
+        "currency": "USD",
+        "start_date": "2026-01-28",
+        "end_date": "2026-04-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000161",
+        "campaign_name": "New Customer Offer 161",
+        "channel_id": "CH-004",
+        "budget": 10368.21,
+        "currency": "USD",
+        "start_date": "2026-05-22",
+        "end_date": "2026-06-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000162",
+        "campaign_name": "Customer Retention 162",
+        "channel_id": "CH-003",
+        "budget": 73339.2,
+        "currency": "USD",
+        "start_date": "2026-07-22",
+        "end_date": "2026-09-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000163",
+        "campaign_name": "Festival Promotion 163",
+        "channel_id": "CH-001",
+        "budget": 18057.4,
+        "currency": "USD",
+        "start_date": "2026-09-29",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000164",
+        "campaign_name": "Winter Campaign 164",
+        "channel_id": "CH-001",
+        "budget": 88370.86,
+        "currency": "USD",
+        "start_date": "2026-02-11",
+        "end_date": "2026-03-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000165",
+        "campaign_name": "Winter Campaign 165",
+        "channel_id": "CH-004",
+        "budget": 58476.57,
+        "currency": "USD",
+        "start_date": "2026-01-03",
+        "end_date": "2026-03-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000166",
+        "campaign_name": "Summer Sale 166",
+        "channel_id": "CH-002",
+        "budget": 50646.46,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-03-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000167",
+        "campaign_name": "Winter Campaign 167",
+        "channel_id": "CH-002",
+        "budget": 6536.08,
+        "currency": "USD",
+        "start_date": "2026-07-16",
+        "end_date": "2026-10-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000168",
+        "campaign_name": "Brand Awareness 168",
+        "channel_id": "CH-002",
+        "budget": 45807.9,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-08-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000169",
+        "campaign_name": "Website Traffic 169",
+        "channel_id": "CH-003",
+        "budget": 46835.47,
+        "currency": "USD",
+        "start_date": "2026-03-31",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000170",
+        "campaign_name": "Product Launch 170",
+        "channel_id": "CH-003",
+        "budget": 54285.19,
+        "currency": "USD",
+        "start_date": "2026-06-25",
+        "end_date": "2026-08-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000171",
+        "campaign_name": "Product Launch 171",
+        "channel_id": "CH-003",
+        "budget": 82018.89,
+        "currency": "USD",
+        "start_date": "2026-03-27",
+        "end_date": "2026-05-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000172",
+        "campaign_name": "Winter Campaign 172",
+        "channel_id": "CH-003",
+        "budget": 80587.92,
+        "currency": "USD",
+        "start_date": "2026-06-28",
+        "end_date": "2026-09-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000173",
+        "campaign_name": "Website Traffic 173",
+        "channel_id": "CH-003",
+        "budget": 13824.83,
+        "currency": "USD",
+        "start_date": "2026-09-14",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000174",
+        "campaign_name": "New Customer Offer 174",
+        "channel_id": "CH-005",
+        "budget": 50006.48,
+        "currency": "USD",
+        "start_date": "2026-03-16",
+        "end_date": "2026-05-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000175",
+        "campaign_name": "Summer Sale 175",
+        "channel_id": "CH-003",
+        "budget": 53850.01,
+        "currency": "USD",
+        "start_date": "2026-09-15",
+        "end_date": "2026-10-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000176",
+        "campaign_name": "New Customer Offer 176",
+        "channel_id": "CH-005",
+        "budget": 69202.12,
+        "currency": "USD",
+        "start_date": "2026-03-20",
+        "end_date": "2026-04-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000177",
+        "campaign_name": "Winter Campaign 177",
+        "channel_id": "CH-003",
+        "budget": 53987.25,
+        "currency": "USD",
+        "start_date": "2026-07-13",
+        "end_date": "2026-09-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000178",
+        "campaign_name": "Product Launch 178",
+        "channel_id": "CH-005",
+        "budget": 86350.42,
+        "currency": "USD",
+        "start_date": "2026-05-15",
+        "end_date": "2026-07-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000179",
+        "campaign_name": "Product Launch 179",
+        "channel_id": "CH-002",
+        "budget": 14838.1,
+        "currency": "USD",
+        "start_date": "2026-03-05",
+        "end_date": "2026-06-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000180",
+        "campaign_name": "Winter Campaign 180",
+        "channel_id": "CH-005",
+        "budget": 50544.37,
+        "currency": "USD",
+        "start_date": "2026-04-08",
+        "end_date": "2026-06-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000181",
+        "campaign_name": "Festival Promotion 181",
+        "channel_id": "CH-002",
+        "budget": 37541.53,
+        "currency": "USD",
+        "start_date": "2026-09-24",
+        "end_date": "2026-10-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000182",
+        "campaign_name": "Brand Awareness 182",
+        "channel_id": "CH-004",
+        "budget": 37757.09,
+        "currency": "USD",
+        "start_date": "2026-06-24",
+        "end_date": "2026-09-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000183",
+        "campaign_name": "Product Launch 183",
+        "channel_id": "CH-004",
+        "budget": 63138.46,
+        "currency": "USD",
+        "start_date": "2026-05-01",
+        "end_date": "2026-05-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000184",
+        "campaign_name": "New Customer Offer 184",
+        "channel_id": "CH-001",
+        "budget": 93495.11,
+        "currency": "USD",
+        "start_date": "2026-09-02",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000185",
+        "campaign_name": "New Customer Offer 185",
+        "channel_id": "CH-002",
+        "budget": 47075.17,
+        "currency": "USD",
+        "start_date": "2026-09-02",
+        "end_date": "2026-10-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000186",
+        "campaign_name": "Festival Promotion 186",
+        "channel_id": "CH-001",
+        "budget": 7917.07,
+        "currency": "USD",
+        "start_date": "2026-01-07",
+        "end_date": "2026-02-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000187",
+        "campaign_name": "Winter Campaign 187",
+        "channel_id": "CH-002",
+        "budget": 25195.43,
+        "currency": "USD",
+        "start_date": "2026-05-29",
+        "end_date": "2026-06-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000188",
+        "campaign_name": "Website Traffic 188",
+        "channel_id": "CH-003",
+        "budget": 25853.41,
+        "currency": "USD",
+        "start_date": "2026-05-28",
+        "end_date": "2026-06-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000189",
+        "campaign_name": "New Customer Offer 189",
+        "channel_id": "CH-004",
+        "budget": 85361.48,
+        "currency": "USD",
+        "start_date": "2026-02-18",
+        "end_date": "2026-03-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000190",
+        "campaign_name": "New Customer Offer 190",
+        "channel_id": "CH-004",
+        "budget": 86353.96,
+        "currency": "USD",
+        "start_date": "2026-06-28",
+        "end_date": "2026-09-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000191",
+        "campaign_name": "Website Traffic 191",
+        "channel_id": "CH-003",
+        "budget": 27696.04,
+        "currency": "USD",
+        "start_date": "2026-03-11",
+        "end_date": "2026-05-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000192",
+        "campaign_name": "New Customer Offer 192",
+        "channel_id": "CH-001",
+        "budget": 39201.4,
+        "currency": "USD",
+        "start_date": "2026-03-06",
+        "end_date": "2026-04-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000193",
+        "campaign_name": "Customer Retention 193",
+        "channel_id": "CH-004",
+        "budget": 64696.26,
+        "currency": "USD",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000194",
+        "campaign_name": "Product Launch 194",
+        "channel_id": "CH-001",
+        "budget": 44183.63,
+        "currency": "USD",
+        "start_date": "2026-05-01",
+        "end_date": "2026-06-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000195",
+        "campaign_name": "Website Traffic 195",
+        "channel_id": "CH-004",
+        "budget": 49110.8,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-04-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000196",
+        "campaign_name": "Product Launch 196",
+        "channel_id": "CH-005",
+        "budget": 78246.4,
+        "currency": "USD",
+        "start_date": "2026-06-03",
+        "end_date": "2026-08-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000197",
+        "campaign_name": "Brand Awareness 197",
+        "channel_id": "CH-004",
+        "budget": 99987.03,
+        "currency": "USD",
+        "start_date": "2026-05-22",
+        "end_date": "2026-08-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000198",
+        "campaign_name": "Festival Promotion 198",
+        "channel_id": "CH-003",
+        "budget": 14904.79,
+        "currency": "USD",
+        "start_date": "2026-02-23",
+        "end_date": "2026-04-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000199",
+        "campaign_name": "Brand Awareness 199",
+        "channel_id": "CH-002",
+        "budget": 84055.76,
+        "currency": "USD",
+        "start_date": "2026-08-01",
+        "end_date": "2026-10-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000200",
+        "campaign_name": "Winter Campaign 200",
+        "channel_id": "CH-003",
+        "budget": 5147.7,
+        "currency": "USD",
+        "start_date": "2026-06-26",
+        "end_date": "2026-08-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000201",
+        "campaign_name": "Winter Campaign 201",
+        "channel_id": "CH-005",
+        "budget": 19289.45,
+        "currency": "USD",
+        "start_date": "2026-05-05",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000202",
+        "campaign_name": "Website Traffic 202",
+        "channel_id": "CH-003",
+        "budget": 71076.33,
+        "currency": "USD",
+        "start_date": "2026-03-02",
+        "end_date": "2026-03-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000203",
+        "campaign_name": "Festival Promotion 203",
+        "channel_id": "CH-005",
+        "budget": 28996.31,
+        "currency": "USD",
+        "start_date": "2026-02-25",
+        "end_date": "2026-05-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000204",
+        "campaign_name": "Website Traffic 204",
+        "channel_id": "CH-004",
+        "budget": 64025.12,
+        "currency": "USD",
+        "start_date": "2026-05-09",
+        "end_date": "2026-05-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000205",
+        "campaign_name": "New Customer Offer 205",
+        "channel_id": "CH-005",
+        "budget": 85653.73,
+        "currency": "USD",
+        "start_date": "2026-07-22",
+        "end_date": "2026-08-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000206",
+        "campaign_name": "Summer Sale 206",
+        "channel_id": "CH-001",
+        "budget": 9566.69,
+        "currency": "USD",
+        "start_date": "2026-06-02",
+        "end_date": "2026-08-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000207",
+        "campaign_name": "Customer Retention 207",
+        "channel_id": "CH-002",
+        "budget": 67015.02,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-03-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000208",
+        "campaign_name": "Website Traffic 208",
+        "channel_id": "CH-002",
+        "budget": 38821.35,
+        "currency": "USD",
+        "start_date": "2026-02-09",
+        "end_date": "2026-03-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000209",
+        "campaign_name": "New Customer Offer 209",
+        "channel_id": "CH-005",
+        "budget": 77336.44,
+        "currency": "USD",
+        "start_date": "2026-05-17",
+        "end_date": "2026-06-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000210",
+        "campaign_name": "New Customer Offer 210",
+        "channel_id": "CH-002",
+        "budget": 56144.32,
+        "currency": "USD",
+        "start_date": "2026-09-08",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000211",
+        "campaign_name": "Festival Promotion 211",
+        "channel_id": "CH-004",
+        "budget": 11104.73,
+        "currency": "USD",
+        "start_date": "2026-08-28",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000212",
+        "campaign_name": "Brand Awareness 212",
+        "channel_id": "CH-001",
+        "budget": 67862.4,
+        "currency": "USD",
+        "start_date": "2026-05-18",
+        "end_date": "2026-08-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000213",
+        "campaign_name": "New Customer Offer 213",
+        "channel_id": "CH-003",
+        "budget": 20603.48,
+        "currency": "USD",
+        "start_date": "2026-05-11",
+        "end_date": "2026-06-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000214",
+        "campaign_name": "Summer Sale 214",
+        "channel_id": "CH-003",
+        "budget": 59835.82,
+        "currency": "USD",
+        "start_date": "2026-05-18",
+        "end_date": "2026-07-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000215",
+        "campaign_name": "Brand Awareness 215",
+        "channel_id": "CH-001",
+        "budget": 81781.04,
+        "currency": "USD",
+        "start_date": "2026-02-13",
+        "end_date": "2026-03-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000216",
+        "campaign_name": "Festival Promotion 216",
+        "channel_id": "CH-003",
+        "budget": 10585.23,
+        "currency": "USD",
+        "start_date": "2026-05-09",
+        "end_date": "2026-07-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000217",
+        "campaign_name": "Product Launch 217",
+        "channel_id": "CH-004",
+        "budget": 82646.72,
+        "currency": "USD",
+        "start_date": "2026-04-04",
+        "end_date": "2026-05-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000218",
+        "campaign_name": "Customer Retention 218",
+        "channel_id": "CH-002",
+        "budget": 23925.53,
+        "currency": "USD",
+        "start_date": "2026-05-19",
+        "end_date": "2026-07-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000219",
+        "campaign_name": "Brand Awareness 219",
+        "channel_id": "CH-005",
+        "budget": 73066.76,
+        "currency": "USD",
+        "start_date": "2026-03-23",
+        "end_date": "2026-04-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000220",
+        "campaign_name": "Product Launch 220",
+        "channel_id": "CH-003",
+        "budget": 87626.17,
+        "currency": "USD",
+        "start_date": "2026-01-21",
+        "end_date": "2026-03-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000221",
+        "campaign_name": "Summer Sale 221",
+        "channel_id": "CH-005",
+        "budget": 94999.06,
+        "currency": "USD",
+        "start_date": "2026-08-04",
+        "end_date": "2026-09-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000222",
+        "campaign_name": "Winter Campaign 222",
+        "channel_id": "CH-002",
+        "budget": 72945.32,
+        "currency": "USD",
+        "start_date": "2026-07-01",
+        "end_date": "2026-09-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000223",
+        "campaign_name": "New Customer Offer 223",
+        "channel_id": "CH-004",
+        "budget": 62126.4,
+        "currency": "USD",
+        "start_date": "2026-07-26",
+        "end_date": "2026-09-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000224",
+        "campaign_name": "Festival Promotion 224",
+        "channel_id": "CH-005",
+        "budget": 49081.76,
+        "currency": "USD",
+        "start_date": "2026-09-19",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000225",
+        "campaign_name": "Customer Retention 225",
+        "channel_id": "CH-002",
+        "budget": 97788.77,
+        "currency": "USD",
+        "start_date": "2026-08-25",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000226",
+        "campaign_name": "Brand Awareness 226",
+        "channel_id": "CH-004",
+        "budget": 47560.75,
+        "currency": "USD",
+        "start_date": "2026-06-24",
+        "end_date": "2026-07-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000227",
+        "campaign_name": "Website Traffic 227",
+        "channel_id": "CH-001",
+        "budget": 14784.56,
+        "currency": "USD",
+        "start_date": "2026-02-16",
+        "end_date": "2026-05-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000228",
+        "campaign_name": "Festival Promotion 228",
+        "channel_id": "CH-004",
+        "budget": 94787.0,
+        "currency": "USD",
+        "start_date": "2026-08-02",
+        "end_date": "2026-09-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000229",
+        "campaign_name": "Winter Campaign 229",
+        "channel_id": "CH-003",
+        "budget": 39133.9,
+        "currency": "USD",
+        "start_date": "2026-09-07",
+        "end_date": "2026-10-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000230",
+        "campaign_name": "New Customer Offer 230",
+        "channel_id": "CH-005",
+        "budget": 50956.32,
+        "currency": "USD",
+        "start_date": "2026-09-20",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000231",
+        "campaign_name": "Customer Retention 231",
+        "channel_id": "CH-003",
+        "budget": 6982.11,
+        "currency": "USD",
+        "start_date": "2026-07-27",
+        "end_date": "2026-08-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000232",
+        "campaign_name": "Brand Awareness 232",
+        "channel_id": "CH-005",
+        "budget": 13429.23,
+        "currency": "USD",
+        "start_date": "2026-09-09",
+        "end_date": "2026-09-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000233",
+        "campaign_name": "Customer Retention 233",
+        "channel_id": "CH-004",
+        "budget": 84302.63,
+        "currency": "USD",
+        "start_date": "2026-08-20",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000234",
+        "campaign_name": "Winter Campaign 234",
+        "channel_id": "CH-005",
+        "budget": 76847.39,
+        "currency": "USD",
+        "start_date": "2026-04-16",
+        "end_date": "2026-05-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000235",
+        "campaign_name": "Customer Retention 235",
+        "channel_id": "CH-004",
+        "budget": 45277.68,
+        "currency": "USD",
+        "start_date": "2026-05-23",
+        "end_date": "2026-07-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000236",
+        "campaign_name": "Brand Awareness 236",
+        "channel_id": "CH-001",
+        "budget": 67135.24,
+        "currency": "USD",
+        "start_date": "2026-09-30",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000237",
+        "campaign_name": "New Customer Offer 237",
+        "channel_id": "CH-004",
+        "budget": 5147.87,
+        "currency": "USD",
+        "start_date": "2026-02-14",
+        "end_date": "2026-03-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000238",
+        "campaign_name": "Product Launch 238",
+        "channel_id": "CH-001",
+        "budget": 5637.36,
+        "currency": "USD",
+        "start_date": "2026-03-04",
+        "end_date": "2026-04-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000239",
+        "campaign_name": "Winter Campaign 239",
+        "channel_id": "CH-001",
+        "budget": 34732.45,
+        "currency": "USD",
+        "start_date": "2026-08-03",
+        "end_date": "2026-09-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000240",
+        "campaign_name": "Product Launch 240",
+        "channel_id": "CH-004",
+        "budget": 59469.02,
+        "currency": "USD",
+        "start_date": "2026-09-04",
+        "end_date": "2026-10-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000241",
+        "campaign_name": "New Customer Offer 241",
+        "channel_id": "CH-001",
+        "budget": 96247.53,
+        "currency": "USD",
+        "start_date": "2026-08-20",
+        "end_date": "2026-09-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000242",
+        "campaign_name": "Customer Retention 242",
+        "channel_id": "CH-001",
+        "budget": 53621.84,
+        "currency": "USD",
+        "start_date": "2026-03-11",
+        "end_date": "2026-05-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000243",
+        "campaign_name": "Festival Promotion 243",
+        "channel_id": "CH-001",
+        "budget": 50995.51,
+        "currency": "USD",
+        "start_date": "2026-01-25",
+        "end_date": "2026-04-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000244",
+        "campaign_name": "Website Traffic 244",
+        "channel_id": "CH-004",
+        "budget": 85356.93,
+        "currency": "USD",
+        "start_date": "2026-02-19",
+        "end_date": "2026-03-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000245",
+        "campaign_name": "Brand Awareness 245",
+        "channel_id": "CH-001",
+        "budget": 29895.09,
+        "currency": "USD",
+        "start_date": "2026-04-23",
+        "end_date": "2026-06-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000246",
+        "campaign_name": "Winter Campaign 246",
+        "channel_id": "CH-003",
+        "budget": 97769.16,
+        "currency": "USD",
+        "start_date": "2026-05-08",
+        "end_date": "2026-06-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000247",
+        "campaign_name": "New Customer Offer 247",
+        "channel_id": "CH-004",
+        "budget": 63873.16,
+        "currency": "USD",
+        "start_date": "2026-04-30",
+        "end_date": "2026-06-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000248",
+        "campaign_name": "Brand Awareness 248",
+        "channel_id": "CH-001",
+        "budget": 45043.67,
+        "currency": "USD",
+        "start_date": "2026-02-25",
+        "end_date": "2026-03-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000249",
+        "campaign_name": "Brand Awareness 249",
+        "channel_id": "CH-004",
+        "budget": 54842.05,
+        "currency": "USD",
+        "start_date": "2026-09-28",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000250",
+        "campaign_name": "Product Launch 250",
+        "channel_id": "CH-002",
+        "budget": 95692.98,
+        "currency": "USD",
+        "start_date": "2026-04-12",
+        "end_date": "2026-06-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000251",
+        "campaign_name": "Customer Retention 251",
+        "channel_id": "CH-002",
+        "budget": 9895.51,
+        "currency": "USD",
+        "start_date": "2026-06-09",
+        "end_date": "2026-08-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000252",
+        "campaign_name": "Customer Retention 252",
+        "channel_id": "CH-005",
+        "budget": 10977.99,
+        "currency": "USD",
+        "start_date": "2026-07-31",
+        "end_date": "2026-09-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000253",
+        "campaign_name": "Customer Retention 253",
+        "channel_id": "CH-003",
+        "budget": 46672.09,
+        "currency": "USD",
+        "start_date": "2026-04-02",
+        "end_date": "2026-05-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000254",
+        "campaign_name": "Website Traffic 254",
+        "channel_id": "CH-002",
+        "budget": 47928.19,
+        "currency": "USD",
+        "start_date": "2026-08-17",
+        "end_date": "2026-09-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000255",
+        "campaign_name": "Summer Sale 255",
+        "channel_id": "CH-003",
+        "budget": 23391.09,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-07-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000256",
+        "campaign_name": "Festival Promotion 256",
+        "channel_id": "CH-003",
+        "budget": 45518.17,
+        "currency": "USD",
+        "start_date": "2026-05-06",
+        "end_date": "2026-06-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000257",
+        "campaign_name": "Summer Sale 257",
+        "channel_id": "CH-005",
+        "budget": 13818.11,
+        "currency": "USD",
+        "start_date": "2026-09-27",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000258",
+        "campaign_name": "Website Traffic 258",
+        "channel_id": "CH-004",
+        "budget": 11097.23,
+        "currency": "USD",
+        "start_date": "2026-02-01",
+        "end_date": "2026-03-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000259",
+        "campaign_name": "Website Traffic 259",
+        "channel_id": "CH-005",
+        "budget": 60773.97,
+        "currency": "USD",
+        "start_date": "2026-03-06",
+        "end_date": "2026-05-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000260",
+        "campaign_name": "Product Launch 260",
+        "channel_id": "CH-004",
+        "budget": 76405.89,
+        "currency": "USD",
+        "start_date": "2026-02-13",
+        "end_date": "2026-03-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000261",
+        "campaign_name": "New Customer Offer 261",
+        "channel_id": "CH-004",
+        "budget": 34613.81,
+        "currency": "USD",
+        "start_date": "2026-06-21",
+        "end_date": "2026-09-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000262",
+        "campaign_name": "Customer Retention 262",
+        "channel_id": "CH-005",
+        "budget": 48873.47,
+        "currency": "USD",
+        "start_date": "2026-01-30",
+        "end_date": "2026-03-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000263",
+        "campaign_name": "Website Traffic 263",
+        "channel_id": "CH-002",
+        "budget": 23240.67,
+        "currency": "USD",
+        "start_date": "2026-08-12",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000264",
+        "campaign_name": "Brand Awareness 264",
+        "channel_id": "CH-004",
+        "budget": 83764.02,
+        "currency": "USD",
+        "start_date": "2026-09-13",
+        "end_date": "2026-10-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000265",
+        "campaign_name": "Winter Campaign 265",
+        "channel_id": "CH-005",
+        "budget": 35524.51,
+        "currency": "USD",
+        "start_date": "2026-04-16",
+        "end_date": "2026-05-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000266",
+        "campaign_name": "Festival Promotion 266",
+        "channel_id": "CH-002",
+        "budget": 28350.15,
+        "currency": "USD",
+        "start_date": "2026-04-28",
+        "end_date": "2026-06-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000267",
+        "campaign_name": "Summer Sale 267",
+        "channel_id": "CH-005",
+        "budget": 46272.72,
+        "currency": "USD",
+        "start_date": "2026-02-10",
+        "end_date": "2026-05-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000268",
+        "campaign_name": "Festival Promotion 268",
+        "channel_id": "CH-005",
+        "budget": 56084.08,
+        "currency": "USD",
+        "start_date": "2026-05-09",
+        "end_date": "2026-07-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000269",
+        "campaign_name": "Product Launch 269",
+        "channel_id": "CH-004",
+        "budget": 53498.84,
+        "currency": "USD",
+        "start_date": "2026-07-21",
+        "end_date": "2026-09-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000270",
+        "campaign_name": "Summer Sale 270",
+        "channel_id": "CH-002",
+        "budget": 43187.1,
+        "currency": "USD",
+        "start_date": "2026-01-29",
+        "end_date": "2026-04-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000271",
+        "campaign_name": "Product Launch 271",
+        "channel_id": "CH-003",
+        "budget": 40741.91,
+        "currency": "USD",
+        "start_date": "2026-03-04",
+        "end_date": "2026-04-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000272",
+        "campaign_name": "Brand Awareness 272",
+        "channel_id": "CH-002",
+        "budget": 57795.66,
+        "currency": "USD",
+        "start_date": "2026-07-02",
+        "end_date": "2026-08-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000273",
+        "campaign_name": "Customer Retention 273",
+        "channel_id": "CH-005",
+        "budget": 77365.66,
+        "currency": "USD",
+        "start_date": "2026-08-05",
+        "end_date": "2026-09-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000274",
+        "campaign_name": "Brand Awareness 274",
+        "channel_id": "CH-004",
+        "budget": 60751.94,
+        "currency": "USD",
+        "start_date": "2026-08-30",
+        "end_date": "2026-10-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000275",
+        "campaign_name": "New Customer Offer 275",
+        "channel_id": "CH-002",
+        "budget": 28992.18,
+        "currency": "USD",
+        "start_date": "2026-06-08",
+        "end_date": "2026-07-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000276",
+        "campaign_name": "Festival Promotion 276",
+        "channel_id": "CH-005",
+        "budget": 58086.56,
+        "currency": "USD",
+        "start_date": "2026-03-01",
+        "end_date": "2026-04-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000277",
+        "campaign_name": "Summer Sale 277",
+        "channel_id": "CH-002",
+        "budget": 74986.19,
+        "currency": "USD",
+        "start_date": "2026-02-08",
+        "end_date": "2026-04-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000278",
+        "campaign_name": "Festival Promotion 278",
+        "channel_id": "CH-001",
+        "budget": 99551.71,
+        "currency": "USD",
+        "start_date": "2026-01-12",
+        "end_date": "2026-02-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000279",
+        "campaign_name": "New Customer Offer 279",
+        "channel_id": "CH-004",
+        "budget": 54138.28,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-06-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000280",
+        "campaign_name": "Website Traffic 280",
+        "channel_id": "CH-001",
+        "budget": 38590.99,
+        "currency": "USD",
+        "start_date": "2026-01-23",
+        "end_date": "2026-03-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000281",
+        "campaign_name": "Customer Retention 281",
+        "channel_id": "CH-004",
+        "budget": 21359.84,
+        "currency": "USD",
+        "start_date": "2026-08-11",
+        "end_date": "2026-09-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000282",
+        "campaign_name": "Brand Awareness 282",
+        "channel_id": "CH-004",
+        "budget": 46789.43,
+        "currency": "USD",
+        "start_date": "2026-07-30",
+        "end_date": "2026-09-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000283",
+        "campaign_name": "Brand Awareness 283",
+        "channel_id": "CH-002",
+        "budget": 53809.67,
+        "currency": "USD",
+        "start_date": "2026-09-29",
+        "end_date": "2026-10-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000284",
+        "campaign_name": "New Customer Offer 284",
+        "channel_id": "CH-002",
+        "budget": 79829.32,
+        "currency": "USD",
+        "start_date": "2026-06-26",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000285",
+        "campaign_name": "Winter Campaign 285",
+        "channel_id": "CH-002",
+        "budget": 32201.15,
+        "currency": "USD",
+        "start_date": "2026-07-30",
+        "end_date": "2026-09-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000286",
+        "campaign_name": "Summer Sale 286",
+        "channel_id": "CH-005",
+        "budget": 32832.24,
+        "currency": "USD",
+        "start_date": "2026-07-25",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000287",
+        "campaign_name": "Product Launch 287",
+        "channel_id": "CH-001",
+        "budget": 97349.82,
+        "currency": "USD",
+        "start_date": "2026-03-19",
+        "end_date": "2026-05-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000288",
+        "campaign_name": "Website Traffic 288",
+        "channel_id": "CH-004",
+        "budget": 33467.69,
+        "currency": "USD",
+        "start_date": "2026-08-09",
+        "end_date": "2026-10-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000289",
+        "campaign_name": "New Customer Offer 289",
+        "channel_id": "CH-001",
+        "budget": 90244.48,
+        "currency": "USD",
+        "start_date": "2026-05-07",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000290",
+        "campaign_name": "Customer Retention 290",
+        "channel_id": "CH-001",
+        "budget": 22961.62,
+        "currency": "USD",
+        "start_date": "2026-05-17",
+        "end_date": "2026-07-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000291",
+        "campaign_name": "Product Launch 291",
+        "channel_id": "CH-005",
+        "budget": 67940.21,
+        "currency": "USD",
+        "start_date": "2026-02-24",
+        "end_date": "2026-05-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000292",
+        "campaign_name": "Summer Sale 292",
+        "channel_id": "CH-005",
+        "budget": 17825.79,
+        "currency": "USD",
+        "start_date": "2026-02-05",
+        "end_date": "2026-05-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000293",
+        "campaign_name": "Brand Awareness 293",
+        "channel_id": "CH-003",
+        "budget": 34071.64,
+        "currency": "USD",
+        "start_date": "2026-07-24",
+        "end_date": "2026-10-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000294",
+        "campaign_name": "Brand Awareness 294",
+        "channel_id": "CH-001",
+        "budget": 33293.81,
+        "currency": "USD",
+        "start_date": "2026-02-05",
+        "end_date": "2026-03-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000295",
+        "campaign_name": "Website Traffic 295",
+        "channel_id": "CH-003",
+        "budget": 59023.85,
+        "currency": "USD",
+        "start_date": "2026-06-08",
+        "end_date": "2026-08-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000296",
+        "campaign_name": "Festival Promotion 296",
+        "channel_id": "CH-005",
+        "budget": 9023.62,
+        "currency": "USD",
+        "start_date": "2026-07-31",
+        "end_date": "2026-10-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000297",
+        "campaign_name": "Website Traffic 297",
+        "channel_id": "CH-002",
+        "budget": 40120.22,
+        "currency": "USD",
+        "start_date": "2026-07-26",
+        "end_date": "2026-10-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000298",
+        "campaign_name": "Product Launch 298",
+        "channel_id": "CH-003",
+        "budget": 78587.87,
+        "currency": "USD",
+        "start_date": "2026-06-11",
+        "end_date": "2026-09-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000299",
+        "campaign_name": "Website Traffic 299",
+        "channel_id": "CH-003",
+        "budget": 71238.7,
+        "currency": "USD",
+        "start_date": "2026-01-30",
+        "end_date": "2026-02-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000300",
+        "campaign_name": "New Customer Offer 300",
+        "channel_id": "CH-003",
+        "budget": 15662.59,
+        "currency": "USD",
+        "start_date": "2026-05-08",
+        "end_date": "2026-07-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000301",
+        "campaign_name": "Summer Sale 301",
+        "channel_id": "CH-001",
+        "budget": 88374.05,
+        "currency": "USD",
+        "start_date": "2026-02-24",
+        "end_date": "2026-04-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000302",
+        "campaign_name": "Brand Awareness 302",
+        "channel_id": "CH-003",
+        "budget": 5415.25,
+        "currency": "USD",
+        "start_date": "2026-05-13",
+        "end_date": "2026-06-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000303",
+        "campaign_name": "New Customer Offer 303",
+        "channel_id": "CH-002",
+        "budget": 65183.19,
+        "currency": "USD",
+        "start_date": "2026-03-21",
+        "end_date": "2026-05-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000304",
+        "campaign_name": "Winter Campaign 304",
+        "channel_id": "CH-002",
+        "budget": 78501.56,
+        "currency": "USD",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000305",
+        "campaign_name": "Festival Promotion 305",
+        "channel_id": "CH-003",
+        "budget": 97861.98,
+        "currency": "USD",
+        "start_date": "2026-09-12",
+        "end_date": "2026-10-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000306",
+        "campaign_name": "New Customer Offer 306",
+        "channel_id": "CH-001",
+        "budget": 19651.82,
+        "currency": "USD",
+        "start_date": "2026-08-17",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000307",
+        "campaign_name": "Customer Retention 307",
+        "channel_id": "CH-001",
+        "budget": 65637.1,
+        "currency": "USD",
+        "start_date": "2026-05-31",
+        "end_date": "2026-06-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000308",
+        "campaign_name": "Festival Promotion 308",
+        "channel_id": "CH-002",
+        "budget": 20440.18,
+        "currency": "USD",
+        "start_date": "2026-05-03",
+        "end_date": "2026-06-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000309",
+        "campaign_name": "Summer Sale 309",
+        "channel_id": "CH-002",
+        "budget": 32660.22,
+        "currency": "USD",
+        "start_date": "2026-01-27",
+        "end_date": "2026-02-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000310",
+        "campaign_name": "Website Traffic 310",
+        "channel_id": "CH-004",
+        "budget": 57082.81,
+        "currency": "USD",
+        "start_date": "2026-01-31",
+        "end_date": "2026-04-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000311",
+        "campaign_name": "Festival Promotion 311",
+        "channel_id": "CH-001",
+        "budget": 46806.91,
+        "currency": "USD",
+        "start_date": "2026-03-05",
+        "end_date": "2026-04-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000312",
+        "campaign_name": "Winter Campaign 312",
+        "channel_id": "CH-004",
+        "budget": 85287.24,
+        "currency": "USD",
+        "start_date": "2026-05-27",
+        "end_date": "2026-08-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000313",
+        "campaign_name": "Festival Promotion 313",
+        "channel_id": "CH-003",
+        "budget": 60576.05,
+        "currency": "USD",
+        "start_date": "2026-02-25",
+        "end_date": "2026-05-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000314",
+        "campaign_name": "Product Launch 314",
+        "channel_id": "CH-005",
+        "budget": 8931.98,
+        "currency": "USD",
+        "start_date": "2026-04-21",
+        "end_date": "2026-07-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000315",
+        "campaign_name": "Customer Retention 315",
+        "channel_id": "CH-005",
+        "budget": 19616.41,
+        "currency": "USD",
+        "start_date": "2026-03-21",
+        "end_date": "2026-06-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000316",
+        "campaign_name": "Summer Sale 316",
+        "channel_id": "CH-003",
+        "budget": 63283.07,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-07-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000317",
+        "campaign_name": "Summer Sale 317",
+        "channel_id": "CH-003",
+        "budget": 85144.26,
+        "currency": "USD",
+        "start_date": "2026-01-07",
+        "end_date": "2026-02-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000318",
+        "campaign_name": "New Customer Offer 318",
+        "channel_id": "CH-004",
+        "budget": 18003.57,
+        "currency": "USD",
+        "start_date": "2026-07-21",
+        "end_date": "2026-08-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000319",
+        "campaign_name": "Brand Awareness 319",
+        "channel_id": "CH-002",
+        "budget": 59094.77,
+        "currency": "USD",
+        "start_date": "2026-08-04",
+        "end_date": "2026-09-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000320",
+        "campaign_name": "Summer Sale 320",
+        "channel_id": "CH-004",
+        "budget": 91920.55,
+        "currency": "USD",
+        "start_date": "2026-03-01",
+        "end_date": "2026-04-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000321",
+        "campaign_name": "Product Launch 321",
+        "channel_id": "CH-004",
+        "budget": 73090.4,
+        "currency": "USD",
+        "start_date": "2026-05-04",
+        "end_date": "2026-07-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000322",
+        "campaign_name": "Website Traffic 322",
+        "channel_id": "CH-003",
+        "budget": 69881.31,
+        "currency": "USD",
+        "start_date": "2026-08-03",
+        "end_date": "2026-10-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000323",
+        "campaign_name": "Brand Awareness 323",
+        "channel_id": "CH-005",
+        "budget": 40814.11,
+        "currency": "USD",
+        "start_date": "2026-05-17",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000324",
+        "campaign_name": "Summer Sale 324",
+        "channel_id": "CH-004",
+        "budget": 44892.2,
+        "currency": "USD",
+        "start_date": "2026-05-05",
+        "end_date": "2026-07-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000325",
+        "campaign_name": "New Customer Offer 325",
+        "channel_id": "CH-001",
+        "budget": 60270.95,
+        "currency": "USD",
+        "start_date": "2026-01-11",
+        "end_date": "2026-04-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000326",
+        "campaign_name": "Website Traffic 326",
+        "channel_id": "CH-002",
+        "budget": 24987.79,
+        "currency": "USD",
+        "start_date": "2026-08-11",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000327",
+        "campaign_name": "Customer Retention 327",
+        "channel_id": "CH-001",
+        "budget": 35267.44,
+        "currency": "USD",
+        "start_date": "2026-08-13",
+        "end_date": "2026-09-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000328",
+        "campaign_name": "Brand Awareness 328",
+        "channel_id": "CH-002",
+        "budget": 21493.52,
+        "currency": "USD",
+        "start_date": "2026-01-19",
+        "end_date": "2026-02-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000329",
+        "campaign_name": "Product Launch 329",
+        "channel_id": "CH-001",
+        "budget": 59927.28,
+        "currency": "USD",
+        "start_date": "2026-03-01",
+        "end_date": "2026-03-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000330",
+        "campaign_name": "Summer Sale 330",
+        "channel_id": "CH-005",
+        "budget": 82687.52,
+        "currency": "USD",
+        "start_date": "2026-08-30",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000331",
+        "campaign_name": "Festival Promotion 331",
+        "channel_id": "CH-005",
+        "budget": 64395.43,
+        "currency": "USD",
+        "start_date": "2026-06-17",
+        "end_date": "2026-08-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000332",
+        "campaign_name": "Product Launch 332",
+        "channel_id": "CH-003",
+        "budget": 62959.13,
+        "currency": "USD",
+        "start_date": "2026-02-11",
+        "end_date": "2026-04-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000333",
+        "campaign_name": "Festival Promotion 333",
+        "channel_id": "CH-004",
+        "budget": 78209.67,
+        "currency": "USD",
+        "start_date": "2026-05-01",
+        "end_date": "2026-06-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000334",
+        "campaign_name": "New Customer Offer 334",
+        "channel_id": "CH-002",
+        "budget": 20205.6,
+        "currency": "USD",
+        "start_date": "2026-06-21",
+        "end_date": "2026-07-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000335",
+        "campaign_name": "Customer Retention 335",
+        "channel_id": "CH-003",
+        "budget": 24365.01,
+        "currency": "USD",
+        "start_date": "2026-07-20",
+        "end_date": "2026-08-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000336",
+        "campaign_name": "Product Launch 336",
+        "channel_id": "CH-001",
+        "budget": 6179.8,
+        "currency": "USD",
+        "start_date": "2026-04-03",
+        "end_date": "2026-04-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000337",
+        "campaign_name": "Website Traffic 337",
+        "channel_id": "CH-005",
+        "budget": 54749.69,
+        "currency": "USD",
+        "start_date": "2026-02-23",
+        "end_date": "2026-05-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000338",
+        "campaign_name": "New Customer Offer 338",
+        "channel_id": "CH-004",
+        "budget": 73904.09,
+        "currency": "USD",
+        "start_date": "2026-08-20",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000339",
+        "campaign_name": "New Customer Offer 339",
+        "channel_id": "CH-001",
+        "budget": 56476.24,
+        "currency": "USD",
+        "start_date": "2026-02-10",
+        "end_date": "2026-04-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000340",
+        "campaign_name": "Summer Sale 340",
+        "channel_id": "CH-003",
+        "budget": 52544.24,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-06-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000341",
+        "campaign_name": "Brand Awareness 341",
+        "channel_id": "CH-001",
+        "budget": 83726.61,
+        "currency": "USD",
+        "start_date": "2026-07-27",
+        "end_date": "2026-10-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000342",
+        "campaign_name": "Summer Sale 342",
+        "channel_id": "CH-002",
+        "budget": 28718.16,
+        "currency": "USD",
+        "start_date": "2026-08-23",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000343",
+        "campaign_name": "Festival Promotion 343",
+        "channel_id": "CH-002",
+        "budget": 58051.35,
+        "currency": "USD",
+        "start_date": "2026-08-31",
+        "end_date": "2026-10-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000344",
+        "campaign_name": "Website Traffic 344",
+        "channel_id": "CH-004",
+        "budget": 23874.45,
+        "currency": "USD",
+        "start_date": "2026-09-24",
+        "end_date": "2026-10-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000345",
+        "campaign_name": "New Customer Offer 345",
+        "channel_id": "CH-003",
+        "budget": 23123.36,
+        "currency": "USD",
+        "start_date": "2026-05-22",
+        "end_date": "2026-07-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000346",
+        "campaign_name": "Festival Promotion 346",
+        "channel_id": "CH-005",
+        "budget": 54342.4,
+        "currency": "USD",
+        "start_date": "2026-08-23",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000347",
+        "campaign_name": "Summer Sale 347",
+        "channel_id": "CH-005",
+        "budget": 42674.69,
+        "currency": "USD",
+        "start_date": "2026-02-26",
+        "end_date": "2026-03-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000348",
+        "campaign_name": "Summer Sale 348",
+        "channel_id": "CH-004",
+        "budget": 8443.26,
+        "currency": "USD",
+        "start_date": "2026-05-19",
+        "end_date": "2026-07-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000349",
+        "campaign_name": "Customer Retention 349",
+        "channel_id": "CH-004",
+        "budget": 85947.17,
+        "currency": "USD",
+        "start_date": "2026-02-03",
+        "end_date": "2026-03-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000350",
+        "campaign_name": "Winter Campaign 350",
+        "channel_id": "CH-002",
+        "budget": 30231.97,
+        "currency": "USD",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000351",
+        "campaign_name": "Customer Retention 351",
+        "channel_id": "CH-005",
+        "budget": 77589.34,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-05-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000352",
+        "campaign_name": "Festival Promotion 352",
+        "channel_id": "CH-004",
+        "budget": 32990.62,
+        "currency": "USD",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000353",
+        "campaign_name": "Website Traffic 353",
+        "channel_id": "CH-003",
+        "budget": 85240.92,
+        "currency": "USD",
+        "start_date": "2026-04-26",
+        "end_date": "2026-07-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000354",
+        "campaign_name": "Festival Promotion 354",
+        "channel_id": "CH-005",
+        "budget": 54014.25,
+        "currency": "USD",
+        "start_date": "2026-03-06",
+        "end_date": "2026-06-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000355",
+        "campaign_name": "Winter Campaign 355",
+        "channel_id": "CH-004",
+        "budget": 76023.99,
+        "currency": "USD",
+        "start_date": "2026-01-21",
+        "end_date": "2026-04-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000356",
+        "campaign_name": "Festival Promotion 356",
+        "channel_id": "CH-002",
+        "budget": 5189.65,
+        "currency": "USD",
+        "start_date": "2026-05-25",
+        "end_date": "2026-07-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000357",
+        "campaign_name": "Festival Promotion 357",
+        "channel_id": "CH-001",
+        "budget": 40673.72,
+        "currency": "USD",
+        "start_date": "2026-08-21",
+        "end_date": "2026-09-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000358",
+        "campaign_name": "Brand Awareness 358",
+        "channel_id": "CH-003",
+        "budget": 36268.38,
+        "currency": "USD",
+        "start_date": "2026-09-01",
+        "end_date": "2026-10-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000359",
+        "campaign_name": "Customer Retention 359",
+        "channel_id": "CH-005",
+        "budget": 75126.46,
+        "currency": "USD",
+        "start_date": "2026-08-17",
+        "end_date": "2026-09-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000360",
+        "campaign_name": "Brand Awareness 360",
+        "channel_id": "CH-002",
+        "budget": 61520.39,
+        "currency": "USD",
+        "start_date": "2026-04-30",
+        "end_date": "2026-07-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000361",
+        "campaign_name": "Website Traffic 361",
+        "channel_id": "CH-003",
+        "budget": 83159.1,
+        "currency": "USD",
+        "start_date": "2026-06-22",
+        "end_date": "2026-08-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000362",
+        "campaign_name": "New Customer Offer 362",
+        "channel_id": "CH-005",
+        "budget": 64214.08,
+        "currency": "USD",
+        "start_date": "2026-05-31",
+        "end_date": "2026-07-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000363",
+        "campaign_name": "Winter Campaign 363",
+        "channel_id": "CH-002",
+        "budget": 36384.56,
+        "currency": "USD",
+        "start_date": "2026-08-07",
+        "end_date": "2026-09-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000364",
+        "campaign_name": "Festival Promotion 364",
+        "channel_id": "CH-003",
+        "budget": 47105.82,
+        "currency": "USD",
+        "start_date": "2026-01-05",
+        "end_date": "2026-03-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000365",
+        "campaign_name": "Summer Sale 365",
+        "channel_id": "CH-004",
+        "budget": 60776.69,
+        "currency": "USD",
+        "start_date": "2026-06-20",
+        "end_date": "2026-08-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000366",
+        "campaign_name": "Festival Promotion 366",
+        "channel_id": "CH-004",
+        "budget": 74388.86,
+        "currency": "USD",
+        "start_date": "2026-03-27",
+        "end_date": "2026-06-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000367",
+        "campaign_name": "Brand Awareness 367",
+        "channel_id": "CH-005",
+        "budget": 82525.91,
+        "currency": "USD",
+        "start_date": "2026-03-10",
+        "end_date": "2026-05-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000368",
+        "campaign_name": "Winter Campaign 368",
+        "channel_id": "CH-005",
+        "budget": 51799.07,
+        "currency": "USD",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000369",
+        "campaign_name": "Brand Awareness 369",
+        "channel_id": "CH-003",
+        "budget": 87255.68,
+        "currency": "USD",
+        "start_date": "2026-06-14",
+        "end_date": "2026-07-29",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000370",
+        "campaign_name": "Product Launch 370",
+        "channel_id": "CH-003",
+        "budget": 45907.51,
+        "currency": "USD",
+        "start_date": "2026-08-11",
+        "end_date": "2026-08-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000371",
+        "campaign_name": "Website Traffic 371",
+        "channel_id": "CH-002",
+        "budget": 55918.76,
+        "currency": "USD",
+        "start_date": "2026-01-25",
+        "end_date": "2026-03-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000372",
+        "campaign_name": "Product Launch 372",
+        "channel_id": "CH-003",
+        "budget": 46804.9,
+        "currency": "USD",
+        "start_date": "2026-05-18",
+        "end_date": "2026-06-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000373",
+        "campaign_name": "Brand Awareness 373",
+        "channel_id": "CH-005",
+        "budget": 63262.68,
+        "currency": "USD",
+        "start_date": "2026-07-19",
+        "end_date": "2026-10-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000374",
+        "campaign_name": "Winter Campaign 374",
+        "channel_id": "CH-002",
+        "budget": 35709.24,
+        "currency": "USD",
+        "start_date": "2026-08-15",
+        "end_date": "2026-09-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000375",
+        "campaign_name": "New Customer Offer 375",
+        "channel_id": "CH-005",
+        "budget": 35778.45,
+        "currency": "USD",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000376",
+        "campaign_name": "New Customer Offer 376",
+        "channel_id": "CH-003",
+        "budget": 80799.65,
+        "currency": "USD",
+        "start_date": "2026-06-27",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000377",
+        "campaign_name": "Festival Promotion 377",
+        "channel_id": "CH-001",
+        "budget": 66699.23,
+        "currency": "USD",
+        "start_date": "2026-06-30",
+        "end_date": "2026-08-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000378",
+        "campaign_name": "Product Launch 378",
+        "channel_id": "CH-002",
+        "budget": 15376.99,
+        "currency": "USD",
+        "start_date": "2026-09-09",
+        "end_date": "2026-09-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000379",
+        "campaign_name": "Website Traffic 379",
+        "channel_id": "CH-005",
+        "budget": 50540.54,
+        "currency": "USD",
+        "start_date": "2026-09-16",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000380",
+        "campaign_name": "Customer Retention 380",
+        "channel_id": "CH-004",
+        "budget": 67119.41,
+        "currency": "USD",
+        "start_date": "2026-07-10",
+        "end_date": "2026-08-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000381",
+        "campaign_name": "Product Launch 381",
+        "channel_id": "CH-002",
+        "budget": 77911.96,
+        "currency": "USD",
+        "start_date": "2026-04-06",
+        "end_date": "2026-06-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000382",
+        "campaign_name": "Festival Promotion 382",
+        "channel_id": "CH-002",
+        "budget": 34307.54,
+        "currency": "USD",
+        "start_date": "2026-07-22",
+        "end_date": "2026-09-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000383",
+        "campaign_name": "Website Traffic 383",
+        "channel_id": "CH-003",
+        "budget": 13296.07,
+        "currency": "USD",
+        "start_date": "2026-04-24",
+        "end_date": "2026-05-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000384",
+        "campaign_name": "Brand Awareness 384",
+        "channel_id": "CH-001",
+        "budget": 67331.63,
+        "currency": "USD",
+        "start_date": "2026-02-03",
+        "end_date": "2026-04-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000385",
+        "campaign_name": "Product Launch 385",
+        "channel_id": "CH-001",
+        "budget": 49174.61,
+        "currency": "USD",
+        "start_date": "2026-02-13",
+        "end_date": "2026-05-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000386",
+        "campaign_name": "Brand Awareness 386",
+        "channel_id": "CH-003",
+        "budget": 90401.11,
+        "currency": "USD",
+        "start_date": "2026-05-27",
+        "end_date": "2026-08-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000387",
+        "campaign_name": "New Customer Offer 387",
+        "channel_id": "CH-002",
+        "budget": 42028.14,
+        "currency": "USD",
+        "start_date": "2026-06-21",
+        "end_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000388",
+        "campaign_name": "Brand Awareness 388",
+        "channel_id": "CH-005",
+        "budget": 71456.38,
+        "currency": "USD",
+        "start_date": "2026-09-22",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000389",
+        "campaign_name": "Website Traffic 389",
+        "channel_id": "CH-001",
+        "budget": 51215.23,
+        "currency": "USD",
+        "start_date": "2026-03-19",
+        "end_date": "2026-05-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000390",
+        "campaign_name": "Website Traffic 390",
+        "channel_id": "CH-004",
+        "budget": 97922.81,
+        "currency": "USD",
+        "start_date": "2026-06-17",
+        "end_date": "2026-07-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000391",
+        "campaign_name": "New Customer Offer 391",
+        "channel_id": "CH-003",
+        "budget": 59931.37,
+        "currency": "USD",
+        "start_date": "2026-04-26",
+        "end_date": "2026-06-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000392",
+        "campaign_name": "Customer Retention 392",
+        "channel_id": "CH-002",
+        "budget": 17461.29,
+        "currency": "USD",
+        "start_date": "2026-04-19",
+        "end_date": "2026-07-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000393",
+        "campaign_name": "Customer Retention 393",
+        "channel_id": "CH-005",
+        "budget": 78602.37,
+        "currency": "USD",
+        "start_date": "2026-08-31",
+        "end_date": "2026-10-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000394",
+        "campaign_name": "Winter Campaign 394",
+        "channel_id": "CH-002",
+        "budget": 67785.98,
+        "currency": "USD",
+        "start_date": "2026-03-20",
+        "end_date": "2026-05-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000395",
+        "campaign_name": "Customer Retention 395",
+        "channel_id": "CH-001",
+        "budget": 39010.47,
+        "currency": "USD",
+        "start_date": "2026-03-27",
+        "end_date": "2026-04-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000396",
+        "campaign_name": "New Customer Offer 396",
+        "channel_id": "CH-001",
+        "budget": 87679.05,
+        "currency": "USD",
+        "start_date": "2026-07-07",
+        "end_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000397",
+        "campaign_name": "New Customer Offer 397",
+        "channel_id": "CH-002",
+        "budget": 49332.73,
+        "currency": "USD",
+        "start_date": "2026-08-10",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000398",
+        "campaign_name": "Website Traffic 398",
+        "channel_id": "CH-002",
+        "budget": 32025.12,
+        "currency": "USD",
+        "start_date": "2026-05-15",
+        "end_date": "2026-06-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000399",
+        "campaign_name": "Product Launch 399",
+        "channel_id": "CH-005",
+        "budget": 41793.41,
+        "currency": "USD",
+        "start_date": "2026-08-14",
+        "end_date": "2026-09-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000400",
+        "campaign_name": "Website Traffic 400",
+        "channel_id": "CH-002",
+        "budget": 28074.74,
+        "currency": "USD",
+        "start_date": "2026-05-19",
+        "end_date": "2026-07-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000401",
+        "campaign_name": "Winter Campaign 401",
+        "channel_id": "CH-001",
+        "budget": 19547.01,
+        "currency": "USD",
+        "start_date": "2026-01-16",
+        "end_date": "2026-03-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000402",
+        "campaign_name": "Customer Retention 402",
+        "channel_id": "CH-001",
+        "budget": 99226.35,
+        "currency": "USD",
+        "start_date": "2026-08-30",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000403",
+        "campaign_name": "New Customer Offer 403",
+        "channel_id": "CH-003",
+        "budget": 28165.42,
+        "currency": "USD",
+        "start_date": "2026-02-11",
+        "end_date": "2026-03-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000404",
+        "campaign_name": "Winter Campaign 404",
+        "channel_id": "CH-005",
+        "budget": 68038.85,
+        "currency": "USD",
+        "start_date": "2026-04-10",
+        "end_date": "2026-06-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000405",
+        "campaign_name": "Product Launch 405",
+        "channel_id": "CH-001",
+        "budget": 14427.72,
+        "currency": "USD",
+        "start_date": "2026-05-11",
+        "end_date": "2026-08-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000406",
+        "campaign_name": "Summer Sale 406",
+        "channel_id": "CH-003",
+        "budget": 86163.91,
+        "currency": "USD",
+        "start_date": "2026-09-06",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000407",
+        "campaign_name": "Summer Sale 407",
+        "channel_id": "CH-002",
+        "budget": 97411.91,
+        "currency": "USD",
+        "start_date": "2026-03-13",
+        "end_date": "2026-03-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000408",
+        "campaign_name": "Product Launch 408",
+        "channel_id": "CH-004",
+        "budget": 46730.63,
+        "currency": "USD",
+        "start_date": "2026-04-14",
+        "end_date": "2026-06-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000409",
+        "campaign_name": "Summer Sale 409",
+        "channel_id": "CH-001",
+        "budget": 36301.47,
+        "currency": "USD",
+        "start_date": "2026-05-22",
+        "end_date": "2026-07-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000410",
+        "campaign_name": "Summer Sale 410",
+        "channel_id": "CH-001",
+        "budget": 36167.33,
+        "currency": "USD",
+        "start_date": "2026-02-13",
+        "end_date": "2026-03-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000411",
+        "campaign_name": "Winter Campaign 411",
+        "channel_id": "CH-004",
+        "budget": 27264.98,
+        "currency": "USD",
+        "start_date": "2026-03-17",
+        "end_date": "2026-04-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000412",
+        "campaign_name": "Customer Retention 412",
+        "channel_id": "CH-004",
+        "budget": 35663.96,
+        "currency": "USD",
+        "start_date": "2026-05-27",
+        "end_date": "2026-08-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000413",
+        "campaign_name": "Festival Promotion 413",
+        "channel_id": "CH-005",
+        "budget": 11672.84,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-04-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000414",
+        "campaign_name": "New Customer Offer 414",
+        "channel_id": "CH-001",
+        "budget": 67246.41,
+        "currency": "USD",
+        "start_date": "2026-08-21",
+        "end_date": "2026-09-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000415",
+        "campaign_name": "Website Traffic 415",
+        "channel_id": "CH-001",
+        "budget": 47455.6,
+        "currency": "USD",
+        "start_date": "2026-04-12",
+        "end_date": "2026-06-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000416",
+        "campaign_name": "Festival Promotion 416",
+        "channel_id": "CH-002",
+        "budget": 66380.27,
+        "currency": "USD",
+        "start_date": "2026-08-26",
+        "end_date": "2026-10-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000417",
+        "campaign_name": "Brand Awareness 417",
+        "channel_id": "CH-004",
+        "budget": 96409.94,
+        "currency": "USD",
+        "start_date": "2026-08-13",
+        "end_date": "2026-09-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000418",
+        "campaign_name": "Winter Campaign 418",
+        "channel_id": "CH-005",
+        "budget": 32727.97,
+        "currency": "USD",
+        "start_date": "2026-01-09",
+        "end_date": "2026-02-24",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000419",
+        "campaign_name": "Summer Sale 419",
+        "channel_id": "CH-001",
+        "budget": 54328.65,
+        "currency": "USD",
+        "start_date": "2026-05-20",
+        "end_date": "2026-07-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000420",
+        "campaign_name": "Brand Awareness 420",
+        "channel_id": "CH-001",
+        "budget": 51612.87,
+        "currency": "USD",
+        "start_date": "2026-03-03",
+        "end_date": "2026-04-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000421",
+        "campaign_name": "Customer Retention 421",
+        "channel_id": "CH-005",
+        "budget": 91175.47,
+        "currency": "USD",
+        "start_date": "2026-05-24",
+        "end_date": "2026-07-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000422",
+        "campaign_name": "Website Traffic 422",
+        "channel_id": "CH-001",
+        "budget": 96812.65,
+        "currency": "USD",
+        "start_date": "2026-07-06",
+        "end_date": "2026-09-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000423",
+        "campaign_name": "Summer Sale 423",
+        "channel_id": "CH-005",
+        "budget": 68065.77,
+        "currency": "USD",
+        "start_date": "2026-03-30",
+        "end_date": "2026-06-01",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000424",
+        "campaign_name": "Festival Promotion 424",
+        "channel_id": "CH-003",
+        "budget": 7199.71,
+        "currency": "USD",
+        "start_date": "2026-08-14",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000425",
+        "campaign_name": "Summer Sale 425",
+        "channel_id": "CH-004",
+        "budget": 47625.4,
+        "currency": "USD",
+        "start_date": "2026-06-30",
+        "end_date": "2026-09-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000426",
+        "campaign_name": "Product Launch 426",
+        "channel_id": "CH-003",
+        "budget": 96150.9,
+        "currency": "USD",
+        "start_date": "2026-03-10",
+        "end_date": "2026-05-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000427",
+        "campaign_name": "Winter Campaign 427",
+        "channel_id": "CH-005",
+        "budget": 97089.47,
+        "currency": "USD",
+        "start_date": "2026-02-24",
+        "end_date": "2026-03-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000428",
+        "campaign_name": "Summer Sale 428",
+        "channel_id": "CH-001",
+        "budget": 17530.29,
+        "currency": "USD",
+        "start_date": "2026-07-07",
+        "end_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000429",
+        "campaign_name": "Winter Campaign 429",
+        "channel_id": "CH-005",
+        "budget": 69251.14,
+        "currency": "USD",
+        "start_date": "2026-04-10",
+        "end_date": "2026-05-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000430",
+        "campaign_name": "Product Launch 430",
+        "channel_id": "CH-001",
+        "budget": 56763.38,
+        "currency": "USD",
+        "start_date": "2026-04-24",
+        "end_date": "2026-06-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000431",
+        "campaign_name": "Product Launch 431",
+        "channel_id": "CH-004",
+        "budget": 94328.84,
+        "currency": "USD",
+        "start_date": "2026-04-28",
+        "end_date": "2026-05-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000432",
+        "campaign_name": "Festival Promotion 432",
+        "channel_id": "CH-001",
+        "budget": 11931.12,
+        "currency": "USD",
+        "start_date": "2026-08-13",
+        "end_date": "2026-09-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000433",
+        "campaign_name": "Summer Sale 433",
+        "channel_id": "CH-005",
+        "budget": 48254.5,
+        "currency": "USD",
+        "start_date": "2026-05-11",
+        "end_date": "2026-07-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000434",
+        "campaign_name": "Winter Campaign 434",
+        "channel_id": "CH-005",
+        "budget": 94583.75,
+        "currency": "USD",
+        "start_date": "2026-07-03",
+        "end_date": "2026-09-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000435",
+        "campaign_name": "Festival Promotion 435",
+        "channel_id": "CH-004",
+        "budget": 30621.08,
+        "currency": "USD",
+        "start_date": "2026-07-24",
+        "end_date": "2026-09-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000436",
+        "campaign_name": "Website Traffic 436",
+        "channel_id": "CH-002",
+        "budget": 40473.8,
+        "currency": "USD",
+        "start_date": "2026-06-07",
+        "end_date": "2026-07-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000437",
+        "campaign_name": "Customer Retention 437",
+        "channel_id": "CH-002",
+        "budget": 54102.05,
+        "currency": "USD",
+        "start_date": "2026-02-22",
+        "end_date": "2026-05-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000438",
+        "campaign_name": "New Customer Offer 438",
+        "channel_id": "CH-001",
+        "budget": 40893.99,
+        "currency": "USD",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000439",
+        "campaign_name": "Summer Sale 439",
+        "channel_id": "CH-001",
+        "budget": 28966.6,
+        "currency": "USD",
+        "start_date": "2026-09-07",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000440",
+        "campaign_name": "Festival Promotion 440",
+        "channel_id": "CH-002",
+        "budget": 58641.29,
+        "currency": "USD",
+        "start_date": "2026-01-28",
+        "end_date": "2026-03-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000441",
+        "campaign_name": "Brand Awareness 441",
+        "channel_id": "CH-005",
+        "budget": 49399.71,
+        "currency": "USD",
+        "start_date": "2026-06-08",
+        "end_date": "2026-09-06",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000442",
+        "campaign_name": "Product Launch 442",
+        "channel_id": "CH-003",
+        "budget": 85746.29,
+        "currency": "USD",
+        "start_date": "2026-01-26",
+        "end_date": "2026-04-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000443",
+        "campaign_name": "Summer Sale 443",
+        "channel_id": "CH-003",
+        "budget": 43978.83,
+        "currency": "USD",
+        "start_date": "2026-02-22",
+        "end_date": "2026-05-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000444",
+        "campaign_name": "Winter Campaign 444",
+        "channel_id": "CH-002",
+        "budget": 42623.39,
+        "currency": "USD",
+        "start_date": "2026-06-10",
+        "end_date": "2026-06-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000445",
+        "campaign_name": "Summer Sale 445",
+        "channel_id": "CH-002",
+        "budget": 77100.21,
+        "currency": "USD",
+        "start_date": "2026-01-01",
+        "end_date": "2026-03-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000446",
+        "campaign_name": "New Customer Offer 446",
+        "channel_id": "CH-002",
+        "budget": 71854.81,
+        "currency": "USD",
+        "start_date": "2026-06-12",
+        "end_date": "2026-08-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000447",
+        "campaign_name": "Product Launch 447",
+        "channel_id": "CH-003",
+        "budget": 66845.0,
+        "currency": "USD",
+        "start_date": "2026-07-28",
+        "end_date": "2026-08-13",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000448",
+        "campaign_name": "Summer Sale 448",
+        "channel_id": "CH-005",
+        "budget": 36119.11,
+        "currency": "USD",
+        "start_date": "2026-05-30",
+        "end_date": "2026-08-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000449",
+        "campaign_name": "Summer Sale 449",
+        "channel_id": "CH-005",
+        "budget": 64910.94,
+        "currency": "USD",
+        "start_date": "2026-06-19",
+        "end_date": "2026-08-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000450",
+        "campaign_name": "Brand Awareness 450",
+        "channel_id": "CH-001",
+        "budget": 40540.27,
+        "currency": "USD",
+        "start_date": "2026-05-14",
+        "end_date": "2026-06-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000451",
+        "campaign_name": "Brand Awareness 451",
+        "channel_id": "CH-005",
+        "budget": 99752.41,
+        "currency": "USD",
+        "start_date": "2026-05-01",
+        "end_date": "2026-07-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000452",
+        "campaign_name": "Brand Awareness 452",
+        "channel_id": "CH-001",
+        "budget": 13202.72,
+        "currency": "USD",
+        "start_date": "2026-04-22",
+        "end_date": "2026-05-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000453",
+        "campaign_name": "Website Traffic 453",
+        "channel_id": "CH-001",
+        "budget": 87261.31,
+        "currency": "USD",
+        "start_date": "2026-04-25",
+        "end_date": "2026-07-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000454",
+        "campaign_name": "Summer Sale 454",
+        "channel_id": "CH-004",
+        "budget": 78292.09,
+        "currency": "USD",
+        "start_date": "2026-02-26",
+        "end_date": "2026-03-20",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000455",
+        "campaign_name": "Customer Retention 455",
+        "channel_id": "CH-001",
+        "budget": 58417.66,
+        "currency": "USD",
+        "start_date": "2026-04-21",
+        "end_date": "2026-05-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000456",
+        "campaign_name": "Product Launch 456",
+        "channel_id": "CH-004",
+        "budget": 5044.34,
+        "currency": "USD",
+        "start_date": "2026-02-03",
+        "end_date": "2026-03-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000457",
+        "campaign_name": "Festival Promotion 457",
+        "channel_id": "CH-002",
+        "budget": 8490.62,
+        "currency": "USD",
+        "start_date": "2026-06-18",
+        "end_date": "2026-09-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000458",
+        "campaign_name": "Winter Campaign 458",
+        "channel_id": "CH-001",
+        "budget": 27776.08,
+        "currency": "USD",
+        "start_date": "2026-05-05",
+        "end_date": "2026-07-19",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000459",
+        "campaign_name": "Website Traffic 459",
+        "channel_id": "CH-002",
+        "budget": 51442.26,
+        "currency": "USD",
+        "start_date": "2026-02-05",
+        "end_date": "2026-05-03",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000460",
+        "campaign_name": "Website Traffic 460",
+        "channel_id": "CH-003",
+        "budget": 99525.5,
+        "currency": "USD",
+        "start_date": "2026-04-23",
+        "end_date": "2026-07-17",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000461",
+        "campaign_name": "Product Launch 461",
+        "channel_id": "CH-004",
+        "budget": 47834.68,
+        "currency": "USD",
+        "start_date": "2026-02-15",
+        "end_date": "2026-04-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000462",
+        "campaign_name": "Brand Awareness 462",
+        "channel_id": "CH-004",
+        "budget": 79779.12,
+        "currency": "USD",
+        "start_date": "2026-07-23",
+        "end_date": "2026-10-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000463",
+        "campaign_name": "Customer Retention 463",
+        "channel_id": "CH-002",
+        "budget": 39058.68,
+        "currency": "USD",
+        "start_date": "2026-05-19",
+        "end_date": "2026-06-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000464",
+        "campaign_name": "Brand Awareness 464",
+        "channel_id": "CH-004",
+        "budget": 98623.63,
+        "currency": "USD",
+        "start_date": "2026-03-14",
+        "end_date": "2026-05-21",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000465",
+        "campaign_name": "Website Traffic 465",
+        "channel_id": "CH-002",
+        "budget": 26511.45,
+        "currency": "USD",
+        "start_date": "2026-06-19",
+        "end_date": "2026-07-10",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000466",
+        "campaign_name": "Website Traffic 466",
+        "channel_id": "CH-003",
+        "budget": 69105.76,
+        "currency": "USD",
+        "start_date": "2026-08-14",
+        "end_date": "2026-10-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000467",
+        "campaign_name": "Festival Promotion 467",
+        "channel_id": "CH-005",
+        "budget": 31243.71,
+        "currency": "USD",
+        "start_date": "2026-02-09",
+        "end_date": "2026-03-15",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000468",
+        "campaign_name": "Winter Campaign 468",
+        "channel_id": "CH-001",
+        "budget": 65878.57,
+        "currency": "USD",
+        "start_date": "2026-01-16",
+        "end_date": "2026-03-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000469",
+        "campaign_name": "New Customer Offer 469",
+        "channel_id": "CH-005",
+        "budget": 67039.55,
+        "currency": "USD",
+        "start_date": "2026-04-01",
+        "end_date": "2026-05-22",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000470",
+        "campaign_name": "Summer Sale 470",
+        "channel_id": "CH-002",
+        "budget": 36565.73,
+        "currency": "USD",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000471",
+        "campaign_name": "Brand Awareness 471",
+        "channel_id": "CH-001",
+        "budget": 99473.92,
+        "currency": "USD",
+        "start_date": "2026-01-13",
+        "end_date": "2026-03-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000472",
+        "campaign_name": "Festival Promotion 472",
+        "channel_id": "CH-003",
+        "budget": 79936.16,
+        "currency": "USD",
+        "start_date": "2026-08-14",
+        "end_date": "2026-09-28",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000473",
+        "campaign_name": "Summer Sale 473",
+        "channel_id": "CH-001",
+        "budget": 34516.6,
+        "currency": "USD",
+        "start_date": "2026-03-23",
+        "end_date": "2026-05-07",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000474",
+        "campaign_name": "Winter Campaign 474",
+        "channel_id": "CH-004",
+        "budget": 39557.53,
+        "currency": "USD",
+        "start_date": "2026-04-01",
+        "end_date": "2026-04-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000475",
+        "campaign_name": "Festival Promotion 475",
+        "channel_id": "CH-004",
+        "budget": 60305.04,
+        "currency": "USD",
+        "start_date": "2026-09-27",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000476",
+        "campaign_name": "Website Traffic 476",
+        "channel_id": "CH-003",
+        "budget": 74798.94,
+        "currency": "USD",
+        "start_date": "2026-07-08",
+        "end_date": "2026-10-02",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000477",
+        "campaign_name": "Website Traffic 477",
+        "channel_id": "CH-001",
+        "budget": 34846.5,
+        "currency": "USD",
+        "start_date": "2026-07-13",
+        "end_date": "2026-08-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000478",
+        "campaign_name": "Winter Campaign 478",
+        "channel_id": "CH-001",
+        "budget": 70269.62,
+        "currency": "USD",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000479",
+        "campaign_name": "Winter Campaign 479",
+        "channel_id": "CH-001",
+        "budget": 72452.15,
+        "currency": "USD",
+        "start_date": "2026-01-18",
+        "end_date": "2026-04-04",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000480",
+        "campaign_name": "Winter Campaign 480",
+        "channel_id": "CH-003",
+        "budget": 6911.82,
+        "currency": "USD",
+        "start_date": "2026-02-16",
+        "end_date": "2026-03-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000481",
+        "campaign_name": "Website Traffic 481",
+        "channel_id": "CH-003",
+        "budget": 80600.11,
+        "currency": "USD",
+        "start_date": "2026-03-06",
+        "end_date": "2026-03-26",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000482",
+        "campaign_name": "Brand Awareness 482",
+        "channel_id": "CH-005",
+        "budget": 76047.16,
+        "currency": "USD",
+        "start_date": "2026-06-30",
+        "end_date": "2026-09-08",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000483",
+        "campaign_name": "Customer Retention 483",
+        "channel_id": "CH-005",
+        "budget": 9240.44,
+        "currency": "USD",
+        "start_date": "2026-01-25",
+        "end_date": "2026-03-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000484",
+        "campaign_name": "Product Launch 484",
+        "channel_id": "CH-002",
+        "budget": 40058.34,
+        "currency": "USD",
+        "start_date": "2026-07-27",
+        "end_date": "2026-10-12",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000485",
+        "campaign_name": "Brand Awareness 485",
+        "channel_id": "CH-001",
+        "budget": 84914.35,
+        "currency": "USD",
+        "start_date": "2026-04-05",
+        "end_date": "2026-06-23",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000486",
+        "campaign_name": "Winter Campaign 486",
+        "channel_id": "CH-003",
+        "budget": 93813.2,
+        "currency": "USD",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-14",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000487",
+        "campaign_name": "Winter Campaign 487",
+        "channel_id": "CH-005",
+        "budget": 30971.35,
+        "currency": "USD",
+        "start_date": "2026-07-19",
+        "end_date": "2026-09-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000488",
+        "campaign_name": "Product Launch 488",
+        "channel_id": "CH-001",
+        "budget": 27705.21,
+        "currency": "USD",
+        "start_date": "2026-09-11",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000489",
+        "campaign_name": "Customer Retention 489",
+        "channel_id": "CH-003",
+        "budget": 35005.37,
+        "currency": "USD",
+        "start_date": "2026-07-25",
+        "end_date": "2026-09-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000490",
+        "campaign_name": "Winter Campaign 490",
+        "channel_id": "CH-003",
+        "budget": 97548.99,
+        "currency": "USD",
+        "start_date": "2026-05-05",
+        "end_date": "2026-07-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000491",
+        "campaign_name": "Product Launch 491",
+        "channel_id": "CH-003",
+        "budget": 30239.27,
+        "currency": "USD",
+        "start_date": "2026-06-06",
+        "end_date": "2026-07-05",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000492",
+        "campaign_name": "Customer Retention 492",
+        "channel_id": "CH-005",
+        "budget": 85459.47,
+        "currency": "USD",
+        "start_date": "2026-04-24",
+        "end_date": "2026-07-16",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000493",
+        "campaign_name": "Brand Awareness 493",
+        "channel_id": "CH-004",
+        "budget": 21887.36,
+        "currency": "USD",
+        "start_date": "2026-03-17",
+        "end_date": "2026-04-30",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000494",
+        "campaign_name": "Website Traffic 494",
+        "channel_id": "CH-001",
+        "budget": 96494.96,
+        "currency": "USD",
+        "start_date": "2026-06-24",
+        "end_date": "2026-07-09",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000495",
+        "campaign_name": "Summer Sale 495",
+        "channel_id": "CH-005",
+        "budget": 85206.64,
+        "currency": "USD",
+        "start_date": "2026-01-19",
+        "end_date": "2026-04-18",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000496",
+        "campaign_name": "Customer Retention 496",
+        "channel_id": "CH-001",
+        "budget": 49151.4,
+        "currency": "USD",
+        "start_date": "2026-09-13",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000497",
+        "campaign_name": "New Customer Offer 497",
+        "channel_id": "CH-003",
+        "budget": 22147.05,
+        "currency": "USD",
+        "start_date": "2026-05-31",
+        "end_date": "2026-06-27",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000498",
+        "campaign_name": "Summer Sale 498",
+        "channel_id": "CH-001",
+        "budget": 59725.54,
+        "currency": "USD",
+        "start_date": "2026-04-04",
+        "end_date": "2026-06-25",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000499",
+        "campaign_name": "Website Traffic 499",
+        "channel_id": "CH-005",
+        "budget": 44417.93,
+        "currency": "USD",
+        "start_date": "2026-04-23",
+        "end_date": "2026-07-11",
+        "status": "Completed"
+    },
+    {
+        "campaign_id": "CMP-2026-000500",
+        "campaign_name": "Winter Campaign 500",
+        "channel_id": "CH-002",
+        "budget": 50770.11,
+        "currency": "USD",
+        "start_date": "2026-08-09",
+        "end_date": "2026-10-31",
+        "status": "Completed"
+    }
+]

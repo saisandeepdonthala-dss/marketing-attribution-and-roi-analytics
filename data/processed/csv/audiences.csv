@@ -1,0 +1,5 @@
+audience_id,audience_name,description
+AUD-001,New Customers,People who have not purchased before
+AUD-002,Existing Customers,People who have purchased before
+AUD-003,Website Visitors,People who visited the website
+AUD-004,Potential Buyers,People interested in purchasing

@@ -1,0 +1,27 @@
+MARKETING ATTRIBUTION - EDGE CASE DETECTION REPORT
+============================================================
+Generated: 2026-11-02T00:55:28
+
+EDGE-001 - Duplicate Revenue
+Status: DETECTED
+Records found: 1
+---------------------------------------------
+EDGE-002 - Touchpoint After Conversion
+Status: DETECTED
+Records found: 1
+---------------------------------------------
+EDGE-003 - Currency Mismatch
+Status: DETECTED
+Records found: 1
+---------------------------------------------
+EDGE-004 - Missing Campaign Costs
+Status: DETECTED
+Records found: 1
+---------------------------------------------
+EDGE-005 - Unsupported Anonymous Identity
+Status: DETECTED
+Records found: 1
+---------------------------------------------
+
+Categories detected: 5/5
+Total problematic records: 5

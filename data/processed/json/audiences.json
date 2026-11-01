@@ -1,0 +1,22 @@
+[
+    {
+        "audience_id": "AUD-001",
+        "audience_name": "New Customers",
+        "description": "People who have not purchased before"
+    },
+    {
+        "audience_id": "AUD-002",
+        "audience_name": "Existing Customers",
+        "description": "People who have purchased before"
+    },
+    {
+        "audience_id": "AUD-003",
+        "audience_name": "Website Visitors",
+        "description": "People who visited the website"
+    },
+    {
+        "audience_id": "AUD-004",
+        "audience_name": "Potential Buyers",
+        "description": "People interested in purchasing"
+    }
+]

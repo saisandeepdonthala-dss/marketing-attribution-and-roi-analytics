@@ -1,0 +1,6 @@
+case_id,case_name,description,expected_detection,severity
+EDGE-001,Revenue Counted More Than Once,The same order revenue is counted more than once during campaign revenue aggregation.,Duplicate revenue must be identified during reconciliation.,High
+EDGE-002,Touchpoint After Conversion,A campaign touchpoint occurs after an opportunity is converted.,The post-conversion touchpoint must not receive attribution credit.,High
+EDGE-003,Spend Currency Mismatch,A campaign cost record uses a currency different from the campaign currency.,The mismatch must be reported instead of silently combining amounts.,High
+EDGE-004,Campaign Costs Omitted,A campaign has no cost records even though it has attributed revenue.,The campaign must be flagged as having missing cost data.,Medium
+EDGE-005,Anonymous Session Linked Without Evidence,An anonymous web session is linked to a contact without a valid identity-matching record.,The unsupported identity link must be reported.,High
